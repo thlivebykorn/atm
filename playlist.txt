@@ -5,7 +5,7 @@
   "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
   "groups": [
     {
-      "name": "SPORT Live",
+      "name": "SPORT TODAY",
       "image": "xxxx",
       "stations": [
         {
