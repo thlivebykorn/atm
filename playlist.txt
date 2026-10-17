@@ -59,60 +59,6 @@
       ]
     },
     {
-      "name": "ลาลีกา สเปน",
-      "image": "https://media.api-sports.io/football/leagues/140.png",
-      "stations": [
-        {
-          "name": "02:00 น. Valencia vs Athletic Club",
-          "image": "https://images.liveplayback.net/teams/532.png",
-          "url": "https://atmflix.live/football/664677",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:00 น. Osasuna vs Racing Santander",
-          "image": "https://images.liveplayback.net/teams/727.png",
-          "url": "https://atmflix.live/football/665154",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "21:15 น. Celta Vigo vs Alaves",
-          "image": "https://images.liveplayback.net/teams/538.png",
-          "url": "https://atmflix.live/football/665635",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:30 น. Malaga vs Real Sociedad",
-          "image": "https://images.liveplayback.net/teams/535.png",
-          "url": "https://atmflix.live/football/665855",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Real Madrid vs Sevilla",
-          "image": "https://images.liveplayback.net/teams/541.png",
-          "url": "https://atmflix.live/football/665985",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Getafe vs Rayo Vallecano",
-          "image": "https://images.liveplayback.net/teams/546.png",
-          "url": "https://atmflix.live/football/666224",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "เจลีก 2 (ญี่ปุ่น)",
       "image": "https://media.api-sports.io/football/leagues/99.png",
       "stations": [
@@ -486,6 +432,52 @@
           "name": "19:00 น. Chainat vs Uttaradit",
           "image": "https://images.liveplayback.net/teams/2781.png",
           "url": "https://atmflix.live/football/665193",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "19:00 น. Osasuna vs Racing Santander",
+          "image": "https://images.liveplayback.net/teams/727.png",
+          "url": "https://atmflix.live/football/665154",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:15 น. Celta Vigo vs Alaves",
+          "image": "https://images.liveplayback.net/teams/538.png",
+          "url": "https://atmflix.live/football/665635",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:30 น. Malaga vs Real Sociedad",
+          "image": "https://images.liveplayback.net/teams/535.png",
+          "url": "https://atmflix.live/football/665855",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Real Madrid vs Sevilla",
+          "image": "https://images.liveplayback.net/teams/541.png",
+          "url": "https://atmflix.live/football/665985",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Getafe vs Rayo Vallecano",
+          "image": "https://images.liveplayback.net/teams/546.png",
+          "url": "https://atmflix.live/football/666224",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
