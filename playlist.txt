@@ -27,20 +27,6 @@
       ]
     },
     {
-      "name": "ไทยลีก 2",
-      "image": "https://media.api-sports.io/football/leagues/297.png",
-      "stations": [
-        {
-          "name": "19:30 น. Phrae United vs Nakhon Ratchasima FC",
-          "image": "https://images.liveplayback.net/teams/6585.png",
-          "url": "https://atmflix.live/football/663639",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "กัลโช่ เซเรีย อา",
       "image": "https://media.api-sports.io/football/leagues/135.png",
       "stations": [
