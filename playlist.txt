@@ -41,6 +41,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "11:00 Golf Asian Tour 2026 SJM Macao Open Day 4",
+          "image": "",
+          "url": "https://atmflix.live/events/13901",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "13:00 Golf DP World India Championship Final",
           "image": "",
           "url": "https://atmflix.live/events/13895",
@@ -52,6 +60,22 @@
           "name": "15:30 Tennis Rolex Shanghai Masters Day 12",
           "image": "",
           "url": "https://atmflix.live/events/13896",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:30 Tennis WTA 1000 Wuhan Open 2026 Final",
+          "image": "",
+          "url": "https://atmflix.live/events/13900",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:50 MotoGP 2026 WorldSBK RD 12 Pirelli Spanish Round Race 2",
+          "image": "",
+          "url": "https://atmflix.live/events/13899",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
