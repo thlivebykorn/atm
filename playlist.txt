@@ -49,6 +49,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "11:00 Golf 2026 KLPGA Tour Iceberg Golf Seoul Shinmun Open Final Round",
+          "image": "",
+          "url": "https://atmflix.live/events/13902",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "13:00 Golf DP World India Championship Final",
           "image": "",
           "url": "https://atmflix.live/events/13895",
@@ -60,6 +68,22 @@
           "name": "15:30 Tennis Rolex Shanghai Masters Day 12",
           "image": "",
           "url": "https://atmflix.live/events/13896",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1",
+          "image": "",
+          "url": "https://atmflix.live/events/13903",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:00 Badminton BWF Denmark Open 2026 Final",
+          "image": "",
+          "url": "https://atmflix.live/events/13904",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
