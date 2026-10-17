@@ -103,14 +103,6 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "23:00 น. Bologna vs Inter",
-          "image": "https://images.liveplayback.net/teams/500.png",
-          "url": "https://atmflix.live/football/664409",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "01:45 น. Juventus vs Lazio",
           "image": "https://images.liveplayback.net/teams/496.png",
           "url": "https://atmflix.live/football/665975",
