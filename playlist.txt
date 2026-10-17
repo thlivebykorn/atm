@@ -25,6 +25,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "06:01 Football North Carolina Courage v San Diego Wave FC NWSL 2026",
+          "image": "https://images.liveplayback.net/events/c2f0af50228a0170fb2f2cad2fe26eb3.png",
+          "url": "https://atmflix.live/events/13898",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "10:00 Golf Buick LPGA Shanghai Final",
           "image": "",
           "url": "https://atmflix.live/events/13894",
