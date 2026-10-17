@@ -35,61 +35,9 @@
       ]
     },
     {
-      "name": "ลาลีกา สเปน",
-      "image": "https://media.api-sports.io/football/leagues/140.png",
-      "stations": [
-        {
-          "name": "19:00 น. Espanyol vs Atletico Madrid",
-          "image": "https://images.liveplayback.net/teams/540.png",
-          "url": "https://atmflix.live/football/663475",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "21:15 น. Villarreal vs Elche",
-          "image": "https://images.liveplayback.net/teams/533.png",
-          "url": "https://atmflix.live/football/664214",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:30 น. Real Betis vs Barcelona",
-          "image": "https://images.liveplayback.net/teams/543.png",
-          "url": "https://atmflix.live/football/664503",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ไทยลีก 1",
-      "image": "https://media.api-sports.io/football/leagues/296.png",
-      "stations": [
-        {
-          "name": "19:00 น. Rayong FC vs Uthai Thani",
-          "image": "https://images.liveplayback.net/teams/2797.png",
-          "url": "https://atmflix.live/football/663532",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "ไทยลีก 2",
       "image": "https://media.api-sports.io/football/leagues/297.png",
       "stations": [
-        {
-          "name": "19:00 น. Police Tero vs Kasetsart FC",
-          "image": "https://images.liveplayback.net/teams/2775.png",
-          "url": "https://atmflix.live/football/663536",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "19:30 น. Phrae United vs Nakhon Ratchasima FC",
           "image": "https://images.liveplayback.net/teams/6585.png",
@@ -208,6 +156,28 @@
           "name": "23:30 น. Newcastle vs Aston Villa",
           "image": "https://images.liveplayback.net/teams/34.png",
           "url": "https://atmflix.live/football/664500",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "21:15 น. Villarreal vs Elche",
+          "image": "https://images.liveplayback.net/teams/533.png",
+          "url": "https://atmflix.live/football/664214",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:30 น. Real Betis vs Barcelona",
+          "image": "https://images.liveplayback.net/teams/543.png",
+          "url": "https://atmflix.live/football/664503",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
