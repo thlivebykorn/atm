@@ -25,93 +25,9 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Badminton BWF World Junior Championships 2026",
-          "image": "",
-          "url": "https://atmflix.live/events/13880",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "04:00 Fighting UFC Fight Night 2026 Buckley vs Malott",
           "image": "",
           "url": "https://atmflix.live/events/13881",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ไทยลีก 1",
-      "image": "https://media.api-sports.io/football/leagues/296.png",
-      "stations": [
-        {
-          "name": "18:00 น. Sukhothai FC vs Rasi Salai United",
-          "image": "https://images.liveplayback.net/teams/2783.png",
-          "url": "https://atmflix.live/football/663355",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:30 น. Chonburi FC vs Prachuap",
-          "image": "https://images.liveplayback.net/teams/2772.png",
-          "url": "https://atmflix.live/football/663412",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:00 น. Rayong FC vs Uthai Thani",
-          "image": "https://images.liveplayback.net/teams/2797.png",
-          "url": "https://atmflix.live/football/663532",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ไทยลีก 2",
-      "image": "https://media.api-sports.io/football/leagues/297.png",
-      "stations": [
-        {
-          "name": "18:00 น. Chiangmai United vs Songkhla",
-          "image": "https://images.liveplayback.net/teams/2863.png",
-          "url": "https://atmflix.live/football/663356",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:00 น. Nakhon Pathom vs Nong Bua Pitchaya",
-          "image": "https://images.liveplayback.net/teams/6578.png",
-          "url": "https://atmflix.live/football/663357",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:30 น. Muang Loei United vs Kanchanaburi",
-          "image": "https://images.liveplayback.net/teams/6573.png",
-          "url": "https://atmflix.live/football/663413",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:00 น. Police Tero vs Kasetsart FC",
-          "image": "https://images.liveplayback.net/teams/2775.png",
-          "url": "https://atmflix.live/football/663536",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:30 น. Phrae United vs Nakhon Ratchasima FC",
-          "image": "https://images.liveplayback.net/teams/6585.png",
-          "url": "https://atmflix.live/football/663639",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -158,6 +74,58 @@
           "name": "23:30 น. Newcastle vs Aston Villa",
           "image": "https://images.liveplayback.net/teams/34.png",
           "url": "https://atmflix.live/football/664500",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 1",
+      "image": "https://media.api-sports.io/football/leagues/296.png",
+      "stations": [
+        {
+          "name": "18:30 น. Chonburi FC vs Prachuap",
+          "image": "https://images.liveplayback.net/teams/2772.png",
+          "url": "https://atmflix.live/football/663412",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 น. Rayong FC vs Uthai Thani",
+          "image": "https://images.liveplayback.net/teams/2797.png",
+          "url": "https://atmflix.live/football/663532",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/297.png",
+      "stations": [
+        {
+          "name": "18:30 น. Muang Loei United vs Kanchanaburi",
+          "image": "https://images.liveplayback.net/teams/6573.png",
+          "url": "https://atmflix.live/football/663413",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 น. Police Tero vs Kasetsart FC",
+          "image": "https://images.liveplayback.net/teams/2775.png",
+          "url": "https://atmflix.live/football/663536",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:30 น. Phrae United vs Nakhon Ratchasima FC",
+          "image": "https://images.liveplayback.net/teams/6585.png",
+          "url": "https://atmflix.live/football/663639",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
