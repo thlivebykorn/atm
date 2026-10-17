@@ -27,28 +27,6 @@
       ]
     },
     {
-      "name": "กัลโช่ เซเรีย อา",
-      "image": "https://media.api-sports.io/football/leagues/135.png",
-      "stations": [
-        {
-          "name": "20:00 น. Venezia vs Napoli",
-          "image": "https://images.liveplayback.net/teams/517.png",
-          "url": "https://atmflix.live/football/663715",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:00 น. Bologna vs Inter",
-          "image": "https://images.liveplayback.net/teams/500.png",
-          "url": "https://atmflix.live/football/664409",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
       "name": "บุนเดสลีกา เยอรมัน",
       "image": "https://media.api-sports.io/football/leagues/78.png",
       "stations": [
@@ -170,6 +148,20 @@
           "name": "22:15 น. Strasbourg vs Paris Saint Germain",
           "image": "https://images.liveplayback.net/teams/95.png",
           "url": "https://atmflix.live/football/664378",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "กัลโช่ เซเรีย อา",
+      "image": "https://media.api-sports.io/football/leagues/135.png",
+      "stations": [
+        {
+          "name": "23:00 น. Bologna vs Inter",
+          "image": "https://images.liveplayback.net/teams/500.png",
+          "url": "https://atmflix.live/football/664409",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
