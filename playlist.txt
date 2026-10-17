@@ -205,14 +205,6 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "22:15 น. Strasbourg vs Paris Saint Germain",
-          "image": "https://images.liveplayback.net/teams/95.png",
-          "url": "https://atmflix.live/football/664378",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "01:45 น. Lyon vs Nice",
           "image": "https://images.liveplayback.net/teams/80.png",
           "url": "https://atmflix.live/football/665976",
