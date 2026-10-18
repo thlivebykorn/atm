@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "เจลีก 2 (ญี่ปุ่น)",
+      "name": "เจลีก 2",
       "image": "https://media.api-sports.io/football/leagues/99.png",
       "stations": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "name": "เจลีก 1 (ญี่ปุ่น)",
+      "name": "เจลีก 1",
       "image": "https://media.api-sports.io/football/leagues/98.png",
       "stations": [
         {
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "name": "เจลีก 3 (ญี่ปุ่น)",
+      "name": "เจลีก 3",
       "image": "https://media.api-sports.io/football/leagues/100.png",
       "stations": [
         {
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "name": "ยูฟ่า แชมเปียนส์ ลีก",
+      "name": "ยูฟ่า",
       "image": "https://media.api-sports.io/football/leagues/2.png",
       "stations": [
         {
