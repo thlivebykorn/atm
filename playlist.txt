@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792342661029",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792342841041",
           "url": "https://atmflix.live/events/13903",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,104 +18,8 @@
         },
         {
           "name": "20:25 NFL Houston Texans at Jacksonville Jaguars",
-          "image": "https://atmflix.live/stream/thumbs/playsports51.jpg?timestamp=1792342661029",
+          "image": "https://atmflix.live/stream/thumbs/playsports51.jpg?timestamp=1792342841041",
           "url": "https://atmflix.live/events/13891",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ลาลีกา สเปน",
-      "image": "https://media.api-sports.io/football/leagues/140.png",
-      "stations": [
-        {
-          "name": "21:15 น. Celta Vigo vs Alaves",
-          "image": "https://images.liveplayback.net/teams/538.png",
-          "url": "https://atmflix.live/football/665635",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:30 น. Malaga vs Real Sociedad",
-          "image": "https://images.liveplayback.net/teams/535.png",
-          "url": "https://atmflix.live/football/665855",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Real Madrid vs Sevilla",
-          "image": "https://images.liveplayback.net/teams/541.png",
-          "url": "https://atmflix.live/football/665985",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ลีกเอิง ฝรั่งเศส",
-      "image": "https://media.api-sports.io/football/leagues/61.png",
-      "stations": [
-        {
-          "name": "22:15 น. LE Havre vs Auxerre",
-          "image": "https://images.liveplayback.net/teams/111.png",
-          "url": "https://atmflix.live/football/665758",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "22:15 น. Lorient vs Monaco",
-          "image": "https://images.liveplayback.net/teams/97.png",
-          "url": "https://atmflix.live/football/665759",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "22:15 น. Paris FC vs Rennes",
-          "image": "https://images.liveplayback.net/teams/114.png",
-          "url": "https://atmflix.live/football/665760",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:45 น. Lyon vs Nice",
-          "image": "https://images.liveplayback.net/teams/80.png",
-          "url": "https://atmflix.live/football/665976",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "พรีเมียร์ลีก อังกฤษ",
-      "image": "https://media.api-sports.io/football/leagues/39.png",
-      "stations": [
-        {
-          "name": "22:30 น. Nottingham Forest vs Arsenal",
-          "image": "https://images.liveplayback.net/teams/65.png",
-          "url": "https://atmflix.live/football/665765",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "บุนเดสลีกา 1",
-      "image": "https://media.api-sports.io/football/leagues/78.png",
-      "stations": [
-        {
-          "name": "22:30 น. Borussia Monchengladbach vs 1899 Hoffenheim",
-          "image": "https://images.liveplayback.net/teams/163.png",
-          "url": "https://atmflix.live/football/665768",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -126,14 +30,6 @@
       "name": "กัลโช่ เซเรีย อา",
       "image": "https://media.api-sports.io/football/leagues/135.png",
       "stations": [
-        {
-          "name": "23:00 น. AC Milan vs Atalanta",
-          "image": "https://images.liveplayback.net/teams/489.png",
-          "url": "https://atmflix.live/football/665804",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "01:45 น. Juventus vs Lazio",
           "image": "https://images.liveplayback.net/teams/496.png",
@@ -162,6 +58,86 @@
           "name": "23:30 น. Monza vs Cagliari",
           "image": "https://images.liveplayback.net/teams/1579.png",
           "url": "https://atmflix.live/football/666154",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "01:45 น. Parma vs Torino",
+          "image": "https://images.liveplayback.net/teams/523.png",
+          "url": "https://atmflix.live/football/666218",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลีกเอิง ฝรั่งเศส",
+      "image": "https://media.api-sports.io/football/leagues/61.png",
+      "stations": [
+        {
+          "name": "01:45 น. Lyon vs Nice",
+          "image": "https://images.liveplayback.net/teams/80.png",
+          "url": "https://atmflix.live/football/665976",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "02:00 น. Real Madrid vs Sevilla",
+          "image": "https://images.liveplayback.net/teams/541.png",
+          "url": "https://atmflix.live/football/665985",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Getafe vs Rayo Vallecano",
+          "image": "https://images.liveplayback.net/teams/546.png",
+          "url": "https://atmflix.live/football/666224",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "พรีเมียร์ลีก อังกฤษ",
+      "image": "https://media.api-sports.io/football/leagues/39.png",
+      "stations": [
+        {
+          "name": "02:00 น. Tottenham vs Coventry",
+          "image": "https://images.liveplayback.net/teams/47.png",
+          "url": "https://atmflix.live/football/666223",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ยูฟ่า",
+      "image": "https://media.api-sports.io/football/leagues/2.png",
+      "stations": [
+        {
+          "name": "23:45 น. Fenerbahce vs Slavia Praha",
+          "image": "https://images.liveplayback.net/teams/611.png",
+          "url": "https://atmflix.live/football/666334",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:45 น. Sabah FA vs Borussia Dortmund",
+          "image": "https://images.liveplayback.net/teams/13976.png",
+          "url": "https://atmflix.live/football/666335",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
