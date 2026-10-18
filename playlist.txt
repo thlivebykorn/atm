@@ -49,6 +49,22 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "09:30 Rugby Canterbury v Taranaki NPC Semi Final 2026",
+          "image": "https://images.liveplayback.net/events/00c261dd78d4cf76084bc9072b0c763a.png",
+          "url": "https://atmflix.live/events/13908",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:50 Cycling Day 5 Morning UCI Track World Championships 2026",
+          "image": "https://images.liveplayback.net/events/61727e5fa0ce5bafdccbe163570189c8.png",
+          "url": "https://atmflix.live/events/13909",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "10:00 Golf Buick LPGA Shanghai Final",
           "image": "",
           "url": "https://atmflix.live/events/13894",
