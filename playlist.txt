@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "เจลีก 2",
+      "name": "เจลีก 2 (ญี่ปุ่น)",
       "image": "https://media.api-sports.io/football/leagues/99.png",
       "stations": [
         {
@@ -173,91 +173,11 @@
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
-        {
-          "name": "11:00 น. Montedio Yamagata vs Consadole Sapporo",
-          "image": "https://images.liveplayback.net/teams/312.png",
-          "url": "https://atmflix.live/football/666474",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Tegevajaro Miyazaki vs Blaublitz Akita",
-          "image": "https://images.liveplayback.net/teams/10409.png",
-          "url": "https://atmflix.live/football/666501",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Tokushima Vortis vs Vanraure Hachinohe",
-          "image": "https://images.liveplayback.net/teams/299.png",
-          "url": "https://atmflix.live/football/666502",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Albirex Niigata vs Sagan Tosu",
-          "image": "https://images.liveplayback.net/teams/311.png",
-          "url": "https://atmflix.live/football/666503",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Jubilo Iwata vs Oita Trinita",
-          "image": "https://images.liveplayback.net/teams/280.png",
-          "url": "https://atmflix.live/football/666504",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Omiya Ardija vs Kataller Toyama",
-          "image": "https://images.liveplayback.net/teams/313.png",
-          "url": "https://atmflix.live/football/666505",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Vegalta Sendai vs Imabari",
-          "image": "https://images.liveplayback.net/teams/286.png",
-          "url": "https://atmflix.live/football/666506",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Ventforet Kofu vs Yokohama FC",
-          "image": "https://images.liveplayback.net/teams/308.png",
-          "url": "https://atmflix.live/football/666507",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Shonan Bellmare vs Iwaki",
-          "image": "https://images.liveplayback.net/teams/284.png",
-          "url": "https://atmflix.live/football/666508",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Tochigi City vs Fujieda MYFC",
-          "image": "https://images.liveplayback.net/teams/7145.png",
-          "url": "https://atmflix.live/football/666509",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "เจลีก 1",
+      "name": "เจลีก 1 (ญี่ปุ่น)",
       "image": "https://media.api-sports.io/football/leagues/98.png",
       "stations": [
         {
@@ -275,91 +195,11 @@
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Avispa Fukuoka vs Gamba Osaka",
-          "image": "https://images.liveplayback.net/teams/316.png",
-          "url": "https://atmflix.live/football/666492",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. FC Tokyo vs Kashiwa Reysol",
-          "image": "https://images.liveplayback.net/teams/292.png",
-          "url": "https://atmflix.live/football/666493",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Kawasaki Frontale vs Vissel Kobe",
-          "image": "https://images.liveplayback.net/teams/294.png",
-          "url": "https://atmflix.live/football/666494",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Kyoto Sanga vs Kashima",
-          "image": "https://images.liveplayback.net/teams/302.png",
-          "url": "https://atmflix.live/football/666495",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Nagoya Grampus vs Cerezo Osaka",
-          "image": "https://images.liveplayback.net/teams/288.png",
-          "url": "https://atmflix.live/football/666496",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Fagiano Okayama vs Mito Hollyhock",
-          "image": "https://images.liveplayback.net/teams/310.png",
-          "url": "https://atmflix.live/football/666497",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Shimizu S-pulse vs Machida Zelvia",
-          "image": "https://images.liveplayback.net/teams/283.png",
-          "url": "https://atmflix.live/football/666498",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. V-varen Nagasaki vs Sanfrecce Hiroshima",
-          "image": "https://images.liveplayback.net/teams/285.png",
-          "url": "https://atmflix.live/football/666499",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 น. Yokohama F. Marinos vs Tokyo Verdy",
-          "image": "https://images.liveplayback.net/teams/296.png",
-          "url": "https://atmflix.live/football/666500",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:30 น. Urawa vs JEF United Chiba",
-          "image": "https://images.liveplayback.net/teams/287.png",
-          "url": "https://atmflix.live/football/666524",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
         }
       ]
     },
     {
-      "name": "เจลีก 3",
+      "name": "เจลีก 3 (ญี่ปุ่น)",
       "image": "https://media.api-sports.io/football/leagues/100.png",
       "stations": [
         {
@@ -452,14 +292,6 @@
           "name": "23:30 น. Monza vs Cagliari",
           "image": "https://images.liveplayback.net/teams/1579.png",
           "url": "https://atmflix.live/football/666154",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "01:45 น. Parma vs Torino",
-          "image": "https://images.liveplayback.net/teams/523.png",
-          "url": "https://atmflix.live/football/666218",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -577,14 +409,6 @@
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Getafe vs Rayo Vallecano",
-          "image": "https://images.liveplayback.net/teams/546.png",
-          "url": "https://atmflix.live/football/666224",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
         }
       ]
     },
@@ -669,14 +493,6 @@
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Tottenham vs Coventry",
-          "image": "https://images.liveplayback.net/teams/47.png",
-          "url": "https://atmflix.live/football/666223",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
         }
       ]
     },
@@ -696,100 +512,6 @@
           "name": "22:30 น. Borussia Monchengladbach vs 1899 Hoffenheim",
           "image": "https://images.liveplayback.net/teams/163.png",
           "url": "https://atmflix.live/football/665768",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ยูฟ่า",
-      "image": "https://media.api-sports.io/football/leagues/2.png",
-      "stations": [
-        {
-          "name": "23:45 น. Fenerbahce vs Slavia Praha",
-          "image": "https://images.liveplayback.net/teams/611.png",
-          "url": "https://atmflix.live/football/666334",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 น. Sabah FA vs Borussia Dortmund",
-          "image": "https://images.liveplayback.net/teams/13976.png",
-          "url": "https://atmflix.live/football/666335",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. AS Roma vs Slovan Bratislava",
-          "image": "https://images.liveplayback.net/teams/497.png",
-          "url": "https://atmflix.live/football/666441",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. FC Porto vs PSV Eindhoven",
-          "image": "https://images.liveplayback.net/teams/212.png",
-          "url": "https://atmflix.live/football/666442",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Liverpool vs Villarreal",
-          "image": "https://images.liveplayback.net/teams/40.png",
-          "url": "https://atmflix.live/football/666443",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Manchester City vs AEK Athens FC",
-          "image": "https://images.liveplayback.net/teams/50.png",
-          "url": "https://atmflix.live/football/666444",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Napoli vs Bodo/Glimt",
-          "image": "https://images.liveplayback.net/teams/492.png",
-          "url": "https://atmflix.live/football/666445",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Paris Saint Germain vs Barcelona",
-          "image": "https://images.liveplayback.net/teams/85.png",
-          "url": "https://atmflix.live/football/666446",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. VfB Stuttgart vs Atletico Madrid",
-          "image": "https://images.liveplayback.net/teams/172.png",
-          "url": "https://atmflix.live/football/666447",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 น. como vs Manchester United",
-          "image": "https://images.liveplayback.net/teams/895.png",
-          "url": "https://atmflix.live/football/666602",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 น. Lille vs Galatasaray",
-          "image": "https://images.liveplayback.net/teams/79.png",
-          "url": "https://atmflix.live/football/666603",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
