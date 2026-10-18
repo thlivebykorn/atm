@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "13:30 Tennis Almaty Open Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792359941008",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792360121546",
           "url": "https://atmflix.live/events/13913",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern Knockout 19 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792359941008",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792360121546",
           "url": "https://atmflix.live/events/13912",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -28,16 +28,8 @@
     },
     {
       "name": "กัลโช่ เซเรีย อา",
-      "image": "https://media.api-sports.io/football/leagues/135.png",
+      "image": "https://media.api-sports.io/football/leagues/71.png",
       "stations": [
-        {
-          "name": "01:45 น. Juventus vs Lazio",
-          "image": "https://images.liveplayback.net/teams/496.png",
-          "url": "https://atmflix.live/football/665975",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:00 น. Fluminense vs Santos",
           "image": "https://images.liveplayback.net/teams/124.png",
@@ -66,20 +58,6 @@
           "name": "01:45 น. Parma vs Torino",
           "image": "https://images.liveplayback.net/teams/523.png",
           "url": "https://atmflix.live/football/666218",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ลีกเอิง ฝรั่งเศส",
-      "image": "https://media.api-sports.io/football/leagues/61.png",
-      "stations": [
-        {
-          "name": "01:45 น. Lyon vs Nice",
-          "image": "https://images.liveplayback.net/teams/80.png",
-          "url": "https://atmflix.live/football/665976",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
