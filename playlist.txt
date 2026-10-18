@@ -519,7 +519,7 @@
       ]
     },
     {
-      "name": "บุนเดสลีกา เยอรมัน",
+      "name": "บุนเดสลีกา 1",
       "image": "https://media.api-sports.io/football/leagues/78.png",
       "stations": [
         {
