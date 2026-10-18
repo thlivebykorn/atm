@@ -17,14 +17,6 @@
           "playInNatPlayer": "true"
         },
         {
-          "name": "04:51 Rugby USA v Italy WXV 2026",
-          "image": "https://images.liveplayback.net/events/6c14c00be4ea2b5a04450777a2a11bc6.png",
-          "url": "https://atmflix.live/events/13897",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "06:01 Football North Carolina Courage v San Diego Wave FC NWSL 2026",
           "image": "https://images.liveplayback.net/events/c2f0af50228a0170fb2f2cad2fe26eb3.png",
           "url": "https://atmflix.live/events/13898",
