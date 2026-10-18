@@ -9,16 +9,32 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
+          "name": "04:00 Baseball MLB 2026 ALCS G 5 Guardians vs Rays",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792363361300",
+          "url": "https://atmflix.live/events/13914",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "13:30 Tennis Almaty Open Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792363181134",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792363361300",
           "url": "https://atmflix.live/events/13913",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
+          "name": "18:30 Tennis WTA 500 Ningbo Open 2026 Day 1",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1792363361300",
+          "url": "https://atmflix.live/events/13915",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "19:00 Fighting Rajadamnern Knockout 19 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792363181134",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792363361300",
           "url": "https://atmflix.live/events/13912",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
