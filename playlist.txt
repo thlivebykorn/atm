@@ -367,6 +367,36 @@
       ]
     },
     {
+      "name": "บุนเดสลีกา 2",
+      "image": "https://media.api-sports.io/football/leagues/79.png",
+      "stations": [
+        {
+          "name": "18:30 น. Arminia Bielefeld vs VfL Osnabruck",
+          "image": "https://images.liveplayback.net/teams/188.png",
+          "url": "https://atmflix.live/football/665076",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:30 น. Karlsruher SC vs SV Darmstadt 98",
+          "image": "https://images.liveplayback.net/teams/785.png",
+          "url": "https://atmflix.live/football/665077",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:30 น. Dynamo Dresden vs FC Magdeburg",
+          "image": "https://images.liveplayback.net/teams/183.png",
+          "url": "https://atmflix.live/football/665078",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
       "name": "ลาลีกา สเปน",
       "image": "https://media.api-sports.io/football/leagues/140.png",
       "stations": [
