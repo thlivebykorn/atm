@@ -163,7 +163,7 @@
       ]
     },
     {
-      "name": "เจลีก 2)",
+      "name": "เจลีก 2",
       "image": "https://media.api-sports.io/football/leagues/99.png",
       "stations": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "name": "เจลีก 1)",
+      "name": "เจลีก 1",
       "image": "https://media.api-sports.io/football/leagues/98.png",
       "stations": [
         {
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "เจลีก 3)",
+      "name": "เจลีก 3",
       "image": "https://media.api-sports.io/football/leagues/100.png",
       "stations": [
         {
