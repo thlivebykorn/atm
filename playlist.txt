@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "13:30 Tennis Almaty Open Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792361381067",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792361561269",
           "url": "https://atmflix.live/events/13913",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern Knockout 19 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792361381067",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792361561269",
           "url": "https://atmflix.live/events/13912",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
