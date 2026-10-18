@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "15:30 Futsal Futsal Thai League 2026",
-          "image": "https://atmflix.live/stream/thumbs/tpf4.jpg?timestamp=1792333841350",
+          "image": "https://atmflix.live/stream/thumbs/tpf4.jpg?timestamp=1792334021284",
           "url": "https://atmflix.live/events/13906",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792333841350",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792334021284",
           "url": "https://atmflix.live/events/13903",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "17:00 Badminton BWF Denmark Open 2026 Final",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792333841350",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792334021284",
           "url": "https://atmflix.live/events/13904",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -34,82 +34,8 @@
         },
         {
           "name": "20:25 NFL Houston Texans at Jacksonville Jaguars",
-          "image": "https://atmflix.live/stream/thumbs/playsports51.jpg?timestamp=1792333841350",
+          "image": "https://atmflix.live/stream/thumbs/playsports51.jpg?timestamp=1792334021284",
           "url": "https://atmflix.live/events/13891",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "บุนเดสลีกา 2",
-      "image": "https://media.api-sports.io/football/leagues/79.png",
-      "stations": [
-        {
-          "name": "18:30 น. Arminia Bielefeld vs VfL Osnabruck",
-          "image": "https://images.liveplayback.net/teams/188.png",
-          "url": "https://atmflix.live/football/665076",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:30 น. Karlsruher SC vs SV Darmstadt 98",
-          "image": "https://images.liveplayback.net/teams/785.png",
-          "url": "https://atmflix.live/football/665077",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:30 น. Dynamo Dresden vs FC Magdeburg",
-          "image": "https://images.liveplayback.net/teams/183.png",
-          "url": "https://atmflix.live/football/665078",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ไทยลีก 1",
-      "image": "https://media.api-sports.io/football/leagues/296.png",
-      "stations": [
-        {
-          "name": "18:30 น. Chiangrai United vs Ratchaburi",
-          "image": "https://images.liveplayback.net/teams/2771.png",
-          "url": "https://atmflix.live/football/665094",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:00 น. Pattani vs Buriram United",
-          "image": "https://images.liveplayback.net/teams/6582.png",
-          "url": "https://atmflix.live/football/665192",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ไทยลีก 2",
-      "image": "https://media.api-sports.io/football/leagues/297.png",
-      "stations": [
-        {
-          "name": "18:30 น. Mahasarakham United vs Muangthong United",
-          "image": "https://images.liveplayback.net/teams/17910.png",
-          "url": "https://atmflix.live/football/665095",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "19:00 น. Chainat vs Uttaradit",
-          "image": "https://images.liveplayback.net/teams/2781.png",
-          "url": "https://atmflix.live/football/665193",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -148,6 +74,34 @@
           "name": "02:00 น. Real Madrid vs Sevilla",
           "image": "https://images.liveplayback.net/teams/541.png",
           "url": "https://atmflix.live/football/665985",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 1",
+      "image": "https://media.api-sports.io/football/leagues/296.png",
+      "stations": [
+        {
+          "name": "19:00 น. Pattani vs Buriram United",
+          "image": "https://images.liveplayback.net/teams/6582.png",
+          "url": "https://atmflix.live/football/665192",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/297.png",
+      "stations": [
+        {
+          "name": "19:00 น. Chainat vs Uttaradit",
+          "image": "https://images.liveplayback.net/teams/2781.png",
+          "url": "https://atmflix.live/football/665193",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
