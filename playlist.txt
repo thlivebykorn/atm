@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "13:30 Tennis Almaty Open Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792422941032",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792423121026",
           "url": "https://atmflix.live/events/13913",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792422941032",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792423121026",
           "url": "https://atmflix.live/events/13916",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
