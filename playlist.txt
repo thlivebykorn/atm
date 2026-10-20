@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1 R 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792515461279",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792515641077",
           "url": "https://atmflix.live/events/13921",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -22,22 +22,6 @@
       "name": "ยูฟ่า",
       "image": "https://media.api-sports.io/football/leagues/2.png",
       "stations": [
-        {
-          "name": "23:45 น. Fenerbahce vs Slavia Praha",
-          "image": "https://images.liveplayback.net/teams/611.png",
-          "url": "https://atmflix.live/football/666334",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 น. Sabah FA vs Borussia Dortmund",
-          "image": "https://images.liveplayback.net/teams/13976.png",
-          "url": "https://atmflix.live/football/666335",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:00 น. AS Roma vs Slovan Bratislava",
           "image": "https://images.liveplayback.net/teams/497.png",
@@ -106,6 +90,62 @@
           "name": "23:45 น. Lille vs Galatasaray",
           "image": "https://images.liveplayback.net/teams/79.png",
           "url": "https://atmflix.live/football/666603",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Aston Villa vs Viking",
+          "image": "https://images.liveplayback.net/teams/66.png",
+          "url": "https://atmflix.live/football/666663",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Bayern Munich vs Arsenal",
+          "image": "https://images.liveplayback.net/teams/157.png",
+          "url": "https://atmflix.live/football/666664",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Real Betis vs Feyenoord",
+          "image": "https://images.liveplayback.net/teams/543.png",
+          "url": "https://atmflix.live/football/666665",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Club Brugge KV vs Lens",
+          "image": "https://images.liveplayback.net/teams/569.png",
+          "url": "https://atmflix.live/football/666666",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Inter vs Shakhtar Donetsk",
+          "image": "https://images.liveplayback.net/teams/505.png",
+          "url": "https://atmflix.live/football/666667",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Real Madrid vs RB Leipzig",
+          "image": "https://images.liveplayback.net/teams/541.png",
+          "url": "https://atmflix.live/football/666668",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "02:00 น. Sporting CP vs Lask Linz",
+          "image": "https://images.liveplayback.net/teams/228.png",
+          "url": "https://atmflix.live/football/666669",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -278,6 +318,20 @@
           "name": "17:30 น. Urawa vs JEF United Chiba",
           "image": "https://images.liveplayback.net/teams/287.png",
           "url": "https://atmflix.live/football/666524",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "01:00 น. Levante vs Athletic Club",
+          "image": "https://images.liveplayback.net/teams/539.png",
+          "url": "https://atmflix.live/football/648817",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
