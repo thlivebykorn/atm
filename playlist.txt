@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 1 R 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792523020935",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13921",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "02:00 Basketball Regular Season Pistons vs Celtics",
-          "image": "https://images.liveplayback.net/events/bf5e20be5931b860ede91ec1b3741aea.png?timestamp=1792523020935",
+          "image": "https://images.liveplayback.net/events/bf5e20be5931b860ede91ec1b3741aea.png?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13924",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "08:30 Basketball Oklahoma City Thunder vs San Antonio Spurs",
-          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792523020935",
+          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13925",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "16:30 Tennis ATP 250 BNP Paribas Fortis European Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792523020935",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13926",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "18:00 Fighting New Power 21 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792523020935",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13928",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792523020935",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792523201524",
           "url": "https://atmflix.live/events/13927",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
