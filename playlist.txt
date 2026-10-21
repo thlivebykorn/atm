@@ -9,32 +9,40 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
+          "name": "06:00 Basketball Regular Season Magic vs Hawks",
+          "image": "https://images.liveplayback.net/events/0152dddacc28457117186af28fb0f434.png?timestamp=1792620221171",
+          "url": "https://atmflix.live/events/13948",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "06:30 Basketball Minnesota Timberwolves vs Miami Heat",
-          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13944",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "09:00 Basketball Golden State Warriors vs Los Angeles Lakers",
-          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792620041164",
-          "url": "https://atmflix.live/events/13940",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "09:00 Golf BMW Ladies Championship Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13945",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
+          "name": "09:00 Basketball Golden State Warriors vs Los Angeles Lakers",
+          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792620221171",
+          "url": "https://atmflix.live/events/13940",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "10:00 Golf Genesis Championship Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13946",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +50,7 @@
         },
         {
           "name": "13:30 Tennis Almaty Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13947",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +58,7 @@
         },
         {
           "name": "17:30 Tennis ATP 250 BNP Paribas Fortis European Open Day 4",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13941",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +66,7 @@
         },
         {
           "name": "18:00 Fighting Petchyindee 22 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13943",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,70 +74,8 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 4",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792620041164",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792620221171",
           "url": "https://atmflix.live/events/13942",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ยูฟ่า",
-      "image": "https://media.api-sports.io/football/leagues/2.png",
-      "stations": [
-        {
-          "name": "02:00 น. Aston Villa vs Viking",
-          "image": "https://images.liveplayback.net/teams/66.png",
-          "url": "https://atmflix.live/football/666663",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Bayern Munich vs Arsenal",
-          "image": "https://images.liveplayback.net/teams/157.png",
-          "url": "https://atmflix.live/football/666664",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Real Betis vs Feyenoord",
-          "image": "https://images.liveplayback.net/teams/543.png",
-          "url": "https://atmflix.live/football/666665",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Club Brugge KV vs Lens",
-          "image": "https://images.liveplayback.net/teams/569.png",
-          "url": "https://atmflix.live/football/666666",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Inter vs Shakhtar Donetsk",
-          "image": "https://images.liveplayback.net/teams/505.png",
-          "url": "https://atmflix.live/football/666667",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Real Madrid vs RB Leipzig",
-          "image": "https://images.liveplayback.net/teams/541.png",
-          "url": "https://atmflix.live/football/666668",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "02:00 น. Sporting CP vs Lask Linz",
-          "image": "https://images.liveplayback.net/teams/228.png",
-          "url": "https://atmflix.live/football/666669",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
