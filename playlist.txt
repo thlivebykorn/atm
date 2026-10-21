@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "15:00 Badminton BWF French Open 2026 R 32",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792601861828",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792602041501",
           "url": "https://atmflix.live/events/13932",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792601861828",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792602041501",
           "url": "https://atmflix.live/events/13931",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "16:30 Tennis ATP 250 BNP Paribas Fortis European Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792601861828",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792602041501",
           "url": "https://atmflix.live/events/13926",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,8 +34,22 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792601861828",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792602041501",
           "url": "https://atmflix.live/events/13927",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "01:00 น. Levante vs Athletic Club",
+          "image": "https://images.liveplayback.net/teams/539.png",
+          "url": "https://atmflix.live/football/648817",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
@@ -46,22 +60,6 @@
       "name": "ยูฟ่า",
       "image": "https://media.api-sports.io/football/leagues/2.png",
       "stations": [
-        {
-          "name": "23:45 น. como vs Manchester United",
-          "image": "https://images.liveplayback.net/teams/895.png",
-          "url": "https://atmflix.live/football/666602",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "23:45 น. Lille vs Galatasaray",
-          "image": "https://images.liveplayback.net/teams/79.png",
-          "url": "https://atmflix.live/football/666603",
-          "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
         {
           "name": "02:00 น. Aston Villa vs Viking",
           "image": "https://images.liveplayback.net/teams/66.png",
@@ -121,13 +119,21 @@
       ]
     },
     {
-      "name": "ลาลีกา สเปน",
-      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "name": "บุนเดสลีกา 2",
+      "image": "https://media.api-sports.io/football/leagues/79.png",
       "stations": [
         {
-          "name": "01:00 น. Levante vs Athletic Club",
-          "image": "https://images.liveplayback.net/teams/539.png",
-          "url": "https://atmflix.live/football/648817",
+          "name": "23:30 น. VfL BOCHUM vs VfL Wolfsburg",
+          "image": "https://images.liveplayback.net/teams/176.png",
+          "url": "https://atmflix.live/football/667047",
+          "referer": "https://atmflix.live/",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:30 น. SV Darmstadt 98 vs FC St. Pauli",
+          "image": "https://images.liveplayback.net/teams/181.png",
+          "url": "https://atmflix.live/football/667048",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
