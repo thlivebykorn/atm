@@ -10,34 +10,34 @@
       "stations": [
         {
           "name": "15:00 Badminton BWF French Open 2026 R 32",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792595950435",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792596026393",
           "url": "https://atmflix.live/events/13932",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
           "name": "16:00 Snooker World Snooker Northern Ireland Open 2026 27 R 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792595950435",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792596026393",
           "url": "https://atmflix.live/events/13931",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
           "name": "16:30 Tennis ATP 250 BNP Paribas Fortis European Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792595950435",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792596026393",
           "url": "https://atmflix.live/events/13926",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792595950435",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792596026393",
           "url": "https://atmflix.live/events/13927",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
       ]
@@ -51,7 +51,7 @@
           "image": "https://images.liveplayback.net/teams/895.png",
           "url": "https://atmflix.live/football/666602",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -59,7 +59,7 @@
           "image": "https://images.liveplayback.net/teams/79.png",
           "url": "https://atmflix.live/football/666603",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -67,7 +67,7 @@
           "image": "https://images.liveplayback.net/teams/66.png",
           "url": "https://atmflix.live/football/666663",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -75,7 +75,7 @@
           "image": "https://images.liveplayback.net/teams/157.png",
           "url": "https://atmflix.live/football/666664",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -83,7 +83,7 @@
           "image": "https://images.liveplayback.net/teams/543.png",
           "url": "https://atmflix.live/football/666665",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -91,7 +91,7 @@
           "image": "https://images.liveplayback.net/teams/569.png",
           "url": "https://atmflix.live/football/666666",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -99,7 +99,7 @@
           "image": "https://images.liveplayback.net/teams/505.png",
           "url": "https://atmflix.live/football/666667",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -107,7 +107,7 @@
           "image": "https://images.liveplayback.net/teams/541.png",
           "url": "https://atmflix.live/football/666668",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
@@ -115,7 +115,7 @@
           "image": "https://images.liveplayback.net/teams/228.png",
           "url": "https://atmflix.live/football/666669",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
       ]
@@ -129,7 +129,7 @@
           "image": "https://images.liveplayback.net/teams/539.png",
           "url": "https://atmflix.live/football/648817",
           "referer": "https://atmflix.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
       ]
