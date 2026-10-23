@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "14:30 Badminton BWF French Open 2026 QF C 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "14:30 Badminton BWF French Open 2026 QF C 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/tsp2",
           "referer": "https://kicksball.com/player/tsp2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 BNP Paribas Fortis European Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "20:00 Snooker World Snooker Northern Ireland Open 2026 27 QF",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "10:00 MotoGP Race",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +58,7 @@
         },
         {
           "name": "03:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792774121158",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792774301047",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
