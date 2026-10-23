@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "06:00 Basketball Cleveland Cavaliers vs Philadelphia 76ers",
-          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13973",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "07:00 Basketball Golden State Valkyries vs Atlanta Dream",
-          "image": "https://atmflix.live/stream/thumbs/playsports57.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports57.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13974",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "08:00 Pickleball PPA Hong Kong Slam 2026 Day 4",
-          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13986",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "08:30 Basketball Denver Nuggets vs Oklahoma City Thunder",
-          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13969",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "08:30 Basketball Regular Season Thunder vs Nuggets",
-          "image": "https://images.liveplayback.net/events/acaabc3528b580e2b028de23237a0a29.png?timestamp=1792723722615",
+          "image": "https://images.liveplayback.net/events/acaabc3528b580e2b028de23237a0a29.png?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13989",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "09:00 Golf BMW Ladies Championship Round 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13976",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +58,7 @@
         },
         {
           "name": "09:30 Tennis WTA 250 Japan Open 2026 QF",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13981",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,7 +66,7 @@
         },
         {
           "name": "10:00 Golf Genesis Championship Round 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13977",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -74,7 +74,7 @@
         },
         {
           "name": "11:00 Volleyball Volleyball Pro Challenge 2027",
-          "image": "https://atmflix.live/stream/thumbs/volleyball2.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/volleyball2.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13987",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -82,7 +82,7 @@
         },
         {
           "name": "11:30 Golf Asian Tour 2026 Hong Kong Open Day 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13982",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -90,7 +90,7 @@
         },
         {
           "name": "12:00 Tennis WTA 500 Ningbo Open 2026 QF",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13980",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -98,7 +98,7 @@
         },
         {
           "name": "14:30 Badminton BWF French Open 2026 QF C 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13984",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -106,7 +106,7 @@
         },
         {
           "name": "14:30 Badminton BWF French Open 2026 QF C 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13985",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -114,7 +114,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 BNP Paribas Fortis European Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13970",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -122,7 +122,7 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern Knockout 23 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13972",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -130,7 +130,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13971",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -138,7 +138,7 @@
         },
         {
           "name": "20:00 Snooker World Snooker Northern Ireland Open 2026 27 QF",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13983",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -146,7 +146,7 @@
         },
         {
           "name": "10:00 MotoGP Race",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13968",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -154,7 +154,7 @@
         },
         {
           "name": "03:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792723722615",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792723901105",
           "url": "https://atmflix.live/events/13978",
           "referer": "https://atmflix.live/",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
