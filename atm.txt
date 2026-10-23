@@ -3,5 +3,422 @@
   "author": "free",
   "url": "",
   "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
-  "groups": []
+  "groups": [
+    {
+      "name": "SPORT TODAY",
+      "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+      "stations": [
+        {
+          "name": "08:00 Pickleball PPA Hong Kong Slam 2026 Day 4",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/volleyball3",
+          "referer": "https://kicksball.com/player/volleyball3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:30 Tennis WTA 250 Japan Open 2026 QF",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/tsp3",
+          "referer": "https://kicksball.com/player/tsp3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:30 Golf Asian Tour 2026 Hong Kong Open Day 2",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com/player/tsp1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 Tennis WTA 500 Ningbo Open 2026 QF",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/truetennis",
+          "referer": "https://kicksball.com/player/truetennis",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:30 Badminton BWF French Open 2026 QF C 2",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/tsp2",
+          "referer": "https://kicksball.com/player/tsp2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:30 Badminton BWF French Open 2026 QF C 1",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/tsp7",
+          "referer": "https://kicksball.com/player/tsp7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "15:00 Rugby Australia v Scotland WXV 2026",
+          "image": "https://images.liveplayback.net/events/fbdbbce4c3bf8838f6001c280fbdbce8.png?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/a6282c79-1f01-dc20-e12a-34501917bf03",
+          "referer": "https://kicksball.com/player/a6282c79-1f01-dc20-e12a-34501917bf03",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 Tennis ATP 250 BNP Paribas Fortis European Open Day 5",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/playsports72",
+          "referer": "https://kicksball.com/player/playsports72",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 5",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/playsports73",
+          "referer": "https://kicksball.com/player/playsports73",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 Fighting Rajadamnern Knockout 23 October 2026",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/playsports41",
+          "referer": "https://kicksball.com/player/playsports41",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 Snooker World Snooker Northern Ireland Open 2026 27 QF",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/tsp3",
+          "referer": "https://kicksball.com/player/tsp3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "10:00 MotoGP Race",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/spotv2",
+          "referer": "https://kicksball.com/player/spotv2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 F1 Race",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792750541333",
+          "url": "https://kicksball.com/player/bein1",
+          "referer": "https://kicksball.com/player/bein1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "บุนเดสลีกา 2",
+      "image": "https://media.api-sports.io/football/leagues/79.png",
+      "stations": [
+        {
+          "name": "23:30 น. VfL BOCHUM vs VfL Wolfsburg",
+          "image": "https://images.liveplayback.net/teams/176.png",
+          "url": "https://kicksball.com/player/event3",
+          "referer": "https://kicksball.com/player/event3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:30 น. SV Darmstadt 98 vs FC St. Pauli",
+          "image": "https://images.liveplayback.net/teams/181.png",
+          "url": "https://kicksball.com/player/event4",
+          "referer": "https://kicksball.com/player/event4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:00 น. FC Heidenheim vs Energie Cottbus",
+          "image": "https://images.liveplayback.net/teams/180.png",
+          "url": "https://kicksball.com/player/event1",
+          "referer": "https://kicksball.com/player/event1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:00 น. Hertha Berlin vs Arminia Bielefeld",
+          "image": "https://images.liveplayback.net/teams/159.png",
+          "url": "https://kicksball.com/player/event2",
+          "referer": "https://kicksball.com/player/event2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "กัลโช่ เซเรีย อา",
+      "image": "https://media.api-sports.io/football/leagues/135.png",
+      "stations": [
+        {
+          "name": "01:45 น. Torino vs Monza",
+          "image": "https://images.liveplayback.net/teams/503.png",
+          "url": "https://kicksball.com/player/tpf3",
+          "referer": "https://kicksball.com/player/tpf3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "20:00 น. Cagliari vs Bologna",
+          "image": "https://images.liveplayback.net/teams/490.png",
+          "url": "https://kicksball.com/player/tpf4",
+          "referer": "https://kicksball.com/player/tpf4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลีกเอิง ฝรั่งเศส",
+      "image": "https://media.api-sports.io/football/leagues/61.png",
+      "stations": [
+        {
+          "name": "01:45 น. Stade Brestois 29 vs Nice",
+          "image": "https://images.liveplayback.net/teams/106.png",
+          "url": "https://kicksball.com/player/arenasport3",
+          "referer": "https://kicksball.com/player/arenasport3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "พรีเมียร์ลีก อังกฤษ",
+      "image": "https://media.api-sports.io/football/leagues/39.png",
+      "stations": [
+        {
+          "name": "02:00 น. Ipswich vs Nottingham Forest",
+          "image": "https://images.liveplayback.net/teams/57.png",
+          "url": "https://kicksball.com/player/monomax-sports3",
+          "referer": "https://kicksball.com/player/monomax-sports3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "21:00 น. Arsenal vs Everton",
+          "image": "https://images.liveplayback.net/teams/42.png",
+          "url": "https://kicksball.com/player/monomax-sports4",
+          "referer": "https://kicksball.com/player/monomax-sports4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "02:00 น. Alaves vs Malaga",
+          "image": "https://images.liveplayback.net/teams/542.png",
+          "url": "https://kicksball.com/player/bein2",
+          "referer": "https://kicksball.com/player/bein2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 น. Rayo Vallecano vs Elche",
+          "image": "https://images.liveplayback.net/teams/728.png",
+          "url": "https://kicksball.com/player/bein1",
+          "referer": "https://kicksball.com/player/bein1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "เจลีก 3",
+      "image": "https://media.api-sports.io/football/leagues/100.png",
+      "stations": [
+        {
+          "name": "12:00 น. Thespakusatsu Gunma vs Kamatamare Sanuki",
+          "image": "https://images.liveplayback.net/teams/756.png",
+          "url": "https://kicksball.com/player/event7",
+          "referer": "https://kicksball.com/player/event7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Nara Club vs FC Ryukyu",
+          "image": "https://images.liveplayback.net/teams/7135.png",
+          "url": "https://kicksball.com/player/event8",
+          "referer": "https://kicksball.com/player/event8",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Osaka vs Kagoshima United",
+          "image": "https://images.liveplayback.net/teams/7138.png",
+          "url": "https://kicksball.com/player/event9",
+          "referer": "https://kicksball.com/player/event9",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Sagamihara vs Tochigi SC",
+          "image": "https://images.liveplayback.net/teams/4324.png",
+          "url": "https://kicksball.com/player/event10",
+          "referer": "https://kicksball.com/player/event10",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "เจลีก 1",
+      "image": "https://media.api-sports.io/football/leagues/98.png",
+      "stations": [
+        {
+          "name": "12:00 น. Sanfrecce Hiroshima vs Shimizu S-pulse",
+          "image": "https://images.liveplayback.net/teams/282.png",
+          "url": "https://kicksball.com/player/event1",
+          "referer": "https://kicksball.com/player/event1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "13:00 น. Kashima vs Kashiwa Reysol",
+          "image": "https://images.liveplayback.net/teams/290.png",
+          "url": "https://kicksball.com/player/event2",
+          "referer": "https://kicksball.com/player/event2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "13:00 น. Tokyo Verdy vs Avispa Fukuoka",
+          "image": "https://images.liveplayback.net/teams/306.png",
+          "url": "https://kicksball.com/player/event3",
+          "referer": "https://kicksball.com/player/event3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "13:00 น. Vissel Kobe vs Machida Zelvia",
+          "image": "https://images.liveplayback.net/teams/289.png",
+          "url": "https://kicksball.com/player/event4",
+          "referer": "https://kicksball.com/player/event4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "เจลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/99.png",
+      "stations": [
+        {
+          "name": "12:00 น. Fujieda MYFC vs Tokushima Vortis",
+          "image": "https://images.liveplayback.net/teams/4317.png",
+          "url": "https://kicksball.com/player/event5",
+          "referer": "https://kicksball.com/player/event5",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Omiya Ardija vs Yokohama FC",
+          "image": "https://images.liveplayback.net/teams/313.png",
+          "url": "https://kicksball.com/player/event6",
+          "referer": "https://kicksball.com/player/event6",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 1",
+      "image": "https://media.api-sports.io/football/leagues/296.png",
+      "stations": [
+        {
+          "name": "18:00 น. Port FC vs Rayong FC",
+          "image": "https://images.liveplayback.net/teams/2789.png",
+          "url": "https://kicksball.com/player/playsportsfootball2",
+          "referer": "https://kicksball.com/player/playsportsfootball2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:30 น. Buriram United vs Sisaket United",
+          "image": "https://images.liveplayback.net/teams/2780.png",
+          "url": "https://kicksball.com/player/playsportsfootball3",
+          "referer": "https://kicksball.com/player/playsportsfootball3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 น. Bangkok Glass vs Chiangrai United",
+          "image": "https://images.liveplayback.net/teams/2769.png",
+          "url": "https://kicksball.com/player/playsportsfootball1",
+          "referer": "https://kicksball.com/player/playsportsfootball1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:30 น. Ratchaburi vs Chonburi FC",
+          "image": "https://images.liveplayback.net/teams/2776.png",
+          "url": "https://kicksball.com/player/playsportsfootball4",
+          "referer": "https://kicksball.com/player/playsportsfootball4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/297.png",
+      "stations": [
+        {
+          "name": "18:00 น. Kasetsart FC vs Satun",
+          "image": "https://images.liveplayback.net/teams/2800.png",
+          "url": "https://kicksball.com/player/playsportsfootball6",
+          "referer": "https://kicksball.com/player/playsportsfootball6",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:30 น. Songkhla vs Phrae United",
+          "image": "https://images.liveplayback.net/teams/6604.png",
+          "url": "https://kicksball.com/player/playsportsfootball7",
+          "referer": "https://kicksball.com/player/playsportsfootball7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 น. Nong Bua Pitchaya vs Mahasarakham United",
+          "image": "https://images.liveplayback.net/teams/2796.png",
+          "url": "https://kicksball.com/player/playsportsfootball8",
+          "referer": "https://kicksball.com/player/playsportsfootball8",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:30 น. Uttaradit vs Nakhon Pathom",
+          "image": "https://images.liveplayback.net/teams/6610.png",
+          "url": "https://kicksball.com/player/playsportsfootball9",
+          "referer": "https://kicksball.com/player/playsportsfootball9",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "บุนเดสลีกา 1",
+      "image": "https://media.api-sports.io/football/leagues/78.png",
+      "stations": [
+        {
+          "name": "20:30 น. RB Leipzig vs SV Elversberg",
+          "image": "https://images.liveplayback.net/teams/173.png",
+          "url": "https://kicksball.com/player/playsports90",
+          "referer": "https://kicksball.com/player/playsports90",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    }
+  ]
 }
