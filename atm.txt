@@ -1,0 +1,7 @@
+{
+  "name": "รวมรายการ",
+  "author": "free",
+  "url": "",
+  "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
+  "groups": []
+}
