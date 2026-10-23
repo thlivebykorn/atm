@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "02:00 Golf Stifel Charity Classic Day 1 Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports64.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports64.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports64",
           "referer": "https://kicksball.com/player/playsports64",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "03:00 Basketball Regular Season Bucks vs Bulls",
-          "image": "https://images.liveplayback.net/events/6f3e61eb9d85d123256a98fd18716bcd.png?timestamp=1792792481237",
+          "image": "https://images.liveplayback.net/events/6f3e61eb9d85d123256a98fd18716bcd.png?timestamp=1792792661152",
           "url": "https://kicksball.com/player/nbalpevent1",
           "referer": "https://kicksball.com/player/nbalpevent1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "03:35 Formula 1 United States Practice 2",
-          "image": "https://images.liveplayback.net/events/251b1275328b7f40e421cbec0f8c1257.jpg?timestamp=1792792481237",
+          "image": "https://images.liveplayback.net/events/251b1275328b7f40e421cbec0f8c1257.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/f29e5daa-9fdc-f440-74f6-581273c638ea",
           "referer": "https://kicksball.com/player/f29e5daa-9fdc-f440-74f6-581273c638ea",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "09:00 Golf BMW Ladies Championship Round 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports66",
           "referer": "https://kicksball.com/player/playsports66",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "10:30 Golf Genesis Championship Round 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports69",
           "referer": "https://kicksball.com/player/playsports69",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "19:00 Tennis ATP 250 Grand Prix Auvergne Rhone Alpes Day 6",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +58,7 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern World Series 24 October 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,7 +66,7 @@
         },
         {
           "name": "21:00 Tennis ATP 250 BNP Paribas Fortis European Open Day 6",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -74,7 +74,7 @@
         },
         {
           "name": "10:00 MotoGP Race",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -82,7 +82,7 @@
         },
         {
           "name": "03:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792792481237",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1792792661152",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
