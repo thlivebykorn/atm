@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "19:30 Tennis Erste Bank Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793200519755",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793200522773",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "19:30 Tennis ATP 500 ATP 500 Erste Bank Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793200519755",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793200522773",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "20:00 Tennis ATP 500 Swiss Indoors Basel Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793200519755",
+          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793200522773",
           "url": "https://kicksball.com/player/playsports74",
           "referer": "https://kicksball.com/player/playsports74",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "20:00 Tennis ATP 500 Swiss Indoors Basel Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793200519755",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793200522773",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
