@@ -10,31 +10,15 @@
       "stations": [
         {
           "name": "19:30 Tennis Erste Bank Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793201086767",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793207394361",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "19:30 Tennis ATP 500 ATP 500 Erste Bank Open Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793201086767",
-          "url": "https://kicksball.com/player/playsports72",
-          "referer": "https://kicksball.com/player/playsports72",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "20:00 Tennis ATP 500 Swiss Indoors Basel Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793201086767",
-          "url": "https://kicksball.com/player/playsports74",
-          "referer": "https://kicksball.com/player/playsports74",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "20:00 Tennis ATP 500 Swiss Indoors Basel Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793201086767",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793207394361",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -75,6 +59,34 @@
           "image": "https://images.liveplayback.net/teams/128.png",
           "url": "https://kicksball.com/player/sportdigital",
           "referer": "https://kicksball.com/player/sportdigital",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 1",
+      "image": "https://media.api-sports.io/football/leagues/296.png",
+      "stations": [
+        {
+          "name": "19:00 น. Sisaket United vs Ratchaburi",
+          "image": "https://images.liveplayback.net/teams/18395.png",
+          "url": "https://kicksball.com/player/playsportsfootball1",
+          "referer": "https://kicksball.com/player/playsportsfootball1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ไทยลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/297.png",
+      "stations": [
+        {
+          "name": "19:00 น. Mahasarakham United vs Chanthaburi",
+          "image": "https://images.liveplayback.net/teams/17910.png",
+          "url": "https://kicksball.com/player/playsportsfootball6",
+          "referer": "https://kicksball.com/player/playsportsfootball6",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
