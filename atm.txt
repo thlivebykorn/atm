@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "19:00 Badminton BWF Hylo Open 2026 QF",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793381631548",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793381634534",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "19:30 Tennis Erste Bank Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793381631548",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793381634534",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "20:00 Tennis ATP 500 Swiss Indoors Basel Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793381631548",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793381634534",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "14:00 MotoGP Grand Prix",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1793381631548",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1793381634534",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "03:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1793381631548",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1793381634534",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
