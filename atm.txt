@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "14:00 MotoGP Grand Prix",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1793407112443",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1793407115251",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "03:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1793407112443",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1793407115251",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
