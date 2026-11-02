@@ -9,32 +9,8 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "01:45 Formula 1 Mexico Race",
-          "image": "https://images.liveplayback.net/events/136c041ddb96cbbc2ef0e89d7999f5f5.png?timestamp=1793573903116",
-          "url": "https://kicksball.com/player/2c46634f-c35a-0ed4-a738-346040ff682d",
-          "referer": "https://kicksball.com/player/2c46634f-c35a-0ed4-a738-346040ff682d",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 Golf VidantaWorld Mexico Open Final",
-          "image": "https://atmflix.live/stream/thumbs/playsports61.jpg?timestamp=1793573903116",
-          "url": "https://kicksball.com/player/playsports61",
-          "referer": "https://kicksball.com/player/playsports61",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:30 Basketball Regular Season Magic vs Celtics",
-          "image": "https://images.liveplayback.net/events/d305bbd6c7ff9a68420910e8b18fbe72.png?timestamp=1793573903116",
-          "url": "https://kicksball.com/player/nbalpevent1",
-          "referer": "https://kicksball.com/player/nbalpevent1",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "05:00 Basketball Regular Season Pacers vs Nets",
-          "image": "https://images.liveplayback.net/events/33172532c048956f5c132d7ef1ef7fc9.png?timestamp=1793573903116",
+          "image": "https://images.liveplayback.net/events/33172532c048956f5c132d7ef1ef7fc9.png?timestamp=1793578168739",
           "url": "https://kicksball.com/player/nbalpevent2",
           "referer": "https://kicksball.com/player/nbalpevent2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,15 +18,23 @@
         },
         {
           "name": "09:30 Golf Simmons Bank Championship Day 3 Round Final",
-          "image": "https://atmflix.live/stream/thumbs/playsports64.jpg?timestamp=1793573903116",
+          "image": "https://atmflix.live/stream/thumbs/playsports64.jpg?timestamp=1793578168739",
           "url": "https://kicksball.com/player/playsports64",
           "referer": "https://kicksball.com/player/playsports64",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
+          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 1",
+          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793578168739",
+          "url": "https://kicksball.com/player/playsports74",
+          "referer": "https://kicksball.com/player/playsports74",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 1 Session 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793573903116",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793578168739",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,15 +42,7 @@
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793573903116",
-          "url": "https://kicksball.com/player/playsports74",
-          "referer": "https://kicksball.com/player/playsports74",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793573903116",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793578168739",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -74,7 +50,7 @@
         },
         {
           "name": "17:00 Tennis Rolex Paris Masters Day 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793573903116",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793578168739",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -82,31 +58,9 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern Knockout 02 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793573903116",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793578168739",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "ลาลีกา สเปน",
-      "image": "https://media.api-sports.io/football/leagues/140.png",
-      "stations": [
-        {
-          "name": "03:00 น. Athletic Club vs Real Sociedad",
-          "image": "https://images.liveplayback.net/teams/531.png",
-          "url": "https://kicksball.com/player/bein2",
-          "referer": "https://kicksball.com/player/bein2",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "03:00 น. Deportivo La Coruna vs Osasuna",
-          "image": "https://images.liveplayback.net/teams/544.png",
-          "url": "https://kicksball.com/player/bein1",
-          "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -201,6 +155,20 @@
           "image": "https://images.liveplayback.net/teams/34.png",
           "url": "https://kicksball.com/player/monomax-sports3",
           "referer": "https://kicksball.com/player/monomax-sports3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "ลาลีกา สเปน",
+      "image": "https://media.api-sports.io/football/leagues/140.png",
+      "stations": [
+        {
+          "name": "03:00 น. Deportivo La Coruna vs Osasuna",
+          "image": "https://images.liveplayback.net/teams/544.png",
+          "url": "https://kicksball.com/player/bein1",
+          "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
