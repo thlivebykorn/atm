@@ -9,40 +9,40 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "13:00 Snooker World Snooker International Championship 2026 27 R 4 T 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793711133339",
-          "url": "https://kicksball.com/player/tsp3",
-          "referer": "https://kicksball.com/player/tsp3",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "13:00 Snooker World Snooker International Championship 2026 27 R 4 T 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Tennis Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793711133339",
-          "url": "https://kicksball.com/player/playsports71",
-          "referer": "https://kicksball.com/player/playsports71",
+          "name": "13:00 Snooker World Snooker International Championship 2026 27 R 4 T 1",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793712565906",
+          "url": "https://kicksball.com/player/tsp3",
+          "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2 Session 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
+          "name": "17:00 Tennis Rolex Paris Masters Day 2",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793712565906",
+          "url": "https://kicksball.com/player/playsports71",
+          "referer": "https://kicksball.com/player/playsports71",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/playsports74",
           "referer": "https://kicksball.com/player/playsports74",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,15 +50,23 @@
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
+          "name": "17:59 The Breakfast Club The Breakfast Club Live November 03 2026",
+          "image": "https://images.liveplayback.net/events/b5d0e13eff1155ffeb65c9cd64e41fa1.png?timestamp=1793712565906",
+          "url": "https://kicksball.com/player/9c6be780-aee3-e576-905c-6d72fe380fa9",
+          "referer": "https://kicksball.com/player/9c6be780-aee3-e576-905c-6d72fe380fa9",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "18:00 Event IWF World Championships 2026 Day 8",
-          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/tsp2",
           "referer": "https://kicksball.com/player/tsp2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,7 +74,7 @@
         },
         {
           "name": "19:00 Fighting Rajadamnern Knockout 03 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793711133339",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793712565906",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
