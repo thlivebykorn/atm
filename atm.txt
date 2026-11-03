@@ -9,96 +9,90 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "13:00 Snooker World Snooker International Championship 2026 27 R 4 T 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793712736242",
+          "name": "13:00 Snooker World Snooker International Championship 2026 27 QF T 2",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "13:00 Snooker World Snooker International Championship 2026 27 R 4 T 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793712736242",
+          "name": "13:00 Snooker World Snooker International Championship 2026 27 QF T 1",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2 Session 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793712736242",
+          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3 Session 1",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Tennis Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793712736242",
+          "name": "17:00 Tennis Rolex Paris Masters Day 3",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793712736242",
+          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3",
+          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/playsports74",
           "referer": "https://kicksball.com/player/playsports74",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793712736242",
+          "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "17:59 The Breakfast Club The Breakfast Club Live November 03 2026",
-          "image": "https://images.liveplayback.net/events/b5d0e13eff1155ffeb65c9cd64e41fa1.png?timestamp=1793712736242",
-          "url": "https://kicksball.com/player/9c6be780-aee3-e576-905c-6d72fe380fa9",
-          "referer": "https://kicksball.com/player/9c6be780-aee3-e576-905c-6d72fe380fa9",
+          "name": "17:30 Basketball EASL 2026 27 Ryukyu Golden Kings vs HK Eastern COPY ID",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1793746086996",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com/player/tsp1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "18:00 Event IWF World Championships 2026 Day 8",
-          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793712736242",
+          "name": "18:00 Futsal Futsal Thai League 2026",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/tsp2",
           "referer": "https://kicksball.com/player/tsp2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "19:00 Fighting Rajadamnern Knockout 03 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793712736242",
+          "name": "18:00 Fighting New Power 04 November 2026",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793746086996",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
-        }
-      ]
-    },
-    {
-      "name": "AFC Champions League",
-      "image": "https://media.api-sports.io/football/leagues/17.png",
-      "stations": [
+        },
         {
-          "name": "19:15 น. Công An Nhân Dân vs Kyoto Sanga",
-          "image": "https://images.liveplayback.net/teams/16400.png",
-          "url": "https://kicksball.com/player/event1",
-          "referer": "https://kicksball.com/player/event1",
+          "name": "18:00 Basketball EASL 2026 27 TSG Ghosthawks vs Alvark Tokyo",
+          "image": "https://atmflix.live/stream/thumbs/trueballthai4.jpg?timestamp=1793746086996",
+          "url": "https://kicksball.com/player/trueballthai4",
+          "referer": "https://kicksball.com/player/trueballthai4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "19:15 น. Port FC vs Beijing Guoan",
-          "image": "https://images.liveplayback.net/teams/2789.png",
-          "url": "https://kicksball.com/player/event2",
-          "referer": "https://kicksball.com/player/event2",
+          "name": "18:00 Event IWF World Championships 2026 Day 9",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1793746086996",
+          "url": "https://kicksball.com/player/volleyball3",
+          "referer": "https://kicksball.com/player/volleyball3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -109,16 +103,8 @@
       "image": "https://images.liveplayback.net/leagues/2.png",
       "stations": [
         {
-          "name": "00:45 น. Galatasaray vs VfB Stuttgart",
-          "image": "https://images.liveplayback.net/teams/645.png",
-          "url": "https://kicksball.com/player/bein1",
-          "referer": "https://kicksball.com/player/bein1",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "00:45 น. Shakhtar Donetsk vs Sporting CP",
-          "image": "https://images.liveplayback.net/teams/550.png",
+          "name": "03:00 น. Atletico Madrid vs Bayern Munich",
+          "image": "https://images.liveplayback.net/teams/530.png",
           "url": "https://kicksball.com/player/bein3",
           "referer": "https://kicksball.com/player/bein3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -157,6 +143,14 @@
           "playInNatPlayer": "true"
         },
         {
+          "name": "03:00 น. Manchester United vs AS Roma",
+          "image": "https://images.liveplayback.net/teams/33.png",
+          "url": "https://kicksball.com/player/bein1",
+          "referer": "https://kicksball.com/player/bein1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
           "name": "03:00 น. Villarreal vs Paris Saint Germain",
           "image": "https://images.liveplayback.net/teams/533.png",
           "url": "https://kicksball.com/player/bein2",
@@ -175,6 +169,14 @@
           "image": "https://images.liveplayback.net/teams/132.png",
           "url": "https://kicksball.com/player/event1",
           "referer": "https://kicksball.com/player/event1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:30 น. Sao Paulo vs Corinthians",
+          "image": "https://images.liveplayback.net/teams/126.png",
+          "url": "https://kicksball.com/player/event2",
+          "referer": "https://kicksball.com/player/event2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
