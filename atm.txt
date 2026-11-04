@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "13:00 Snooker World Snooker International Championship 2026 27 QF T 2",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "13:00 Snooker World Snooker International Championship 2026 27 QF T 1",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3 Session 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/playsports72.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/playsports72",
           "referer": "https://kicksball.com/player/playsports72",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "17:00 Tennis Rolex Paris Masters Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/playsports74.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/playsports74",
           "referer": "https://kicksball.com/player/playsports74",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "17:00 Tennis ATP 1000 Rolex Paris Masters Day 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/playsports73.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/playsports73",
           "referer": "https://kicksball.com/player/playsports73",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +58,7 @@
         },
         {
           "name": "17:30 Basketball EASL 2026 27 Ryukyu Golden Kings vs HK Eastern COPY ID",
-          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/tsp1",
           "referer": "https://kicksball.com/player/tsp1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,7 +66,7 @@
         },
         {
           "name": "18:00 Futsal Futsal Thai League 2026",
-          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/tsp2",
           "referer": "https://kicksball.com/player/tsp2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -74,7 +74,7 @@
         },
         {
           "name": "18:00 Fighting New Power 04 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -82,7 +82,7 @@
         },
         {
           "name": "18:00 Basketball EASL 2026 27 TSG Ghosthawks vs Alvark Tokyo",
-          "image": "https://atmflix.live/stream/thumbs/trueballthai4.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/trueballthai4.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/trueballthai4",
           "referer": "https://kicksball.com/player/trueballthai4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -90,7 +90,7 @@
         },
         {
           "name": "18:00 Event IWF World Championships 2026 Day 9",
-          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1793791357399",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1793791360205",
           "url": "https://kicksball.com/player/volleyball3",
           "referer": "https://kicksball.com/player/volleyball3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
