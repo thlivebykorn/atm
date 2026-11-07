@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "00:00 WWE Crown Jewel",
-          "image": "https://images.liveplayback.net/events/382941f880e783d6b7577a9757f92e12.png?timestamp=1794070583105",
+          "image": "https://images.liveplayback.net/events/382941f880e783d6b7577a9757f92e12.png?timestamp=1794070586018",
           "url": "https://kicksball.com/player/ffb2014a-44b2-298e-4302-873ab759eda0",
           "referer": "https://kicksball.com/player/ffb2014a-44b2-298e-4302-873ab759eda0",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "00:20 Formula 1 S o Paulo Qualifying",
-          "image": "https://images.liveplayback.net/events/96439885adf92cbab374ab50ac3f291e.png?timestamp=1794070583105",
+          "image": "https://images.liveplayback.net/events/96439885adf92cbab374ab50ac3f291e.png?timestamp=1794070586018",
           "url": "https://kicksball.com/player/ee4028c2-3a58-e10e-9312-0833eec5e057",
           "referer": "https://kicksball.com/player/ee4028c2-3a58-e10e-9312-0833eec5e057",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "05:00 Fighting UFC Fight Night Bonfim vs Brady",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794070583105",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794070586018",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "21:15 MotoGP QATAR AIRWAYS GRAND PRIX OF QATAR",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1794070583105",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1794070586018",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "00:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1794070583105",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1794070586018",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
