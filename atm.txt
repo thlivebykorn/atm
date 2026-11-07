@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "07:00 Basketball Regular Season Hornets vs Celtics",
-          "image": "https://images.liveplayback.net/events/25b2fe5e72ab5ea637a0c1e3d2e53829.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/25b2fe5e72ab5ea637a0c1e3d2e53829.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent1",
           "referer": "https://kicksball.com/player/nbalpevent1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "07:00 SAMOURAI MMA 22",
-          "image": "https://images.liveplayback.net/events/6d2524fe2517193013c946b59a551a58.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/6d2524fe2517193013c946b59a551a58.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/b3fa7d61-c368-2f41-f468-900b10492d87",
           "referer": "https://kicksball.com/player/b3fa7d61-c368-2f41-f468-900b10492d87",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "07:00 Basketball Regular Season Hawks vs Wizards",
-          "image": "https://images.liveplayback.net/events/d2a3cac7fbb62c87161be11395fa9bea.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/d2a3cac7fbb62c87161be11395fa9bea.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent2",
           "referer": "https://kicksball.com/player/nbalpevent2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "07:30 Basketball Regular Season Cavaliers vs 76ers",
-          "image": "https://images.liveplayback.net/events/53b96690e8f02dbc3c704c627a4a49b6.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/53b96690e8f02dbc3c704c627a4a49b6.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent3",
           "referer": "https://kicksball.com/player/nbalpevent3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "08:00 Basketball Regular Season Pelicans vs Timberwolves",
-          "image": "https://images.liveplayback.net/events/a829858b8b503fac4a15335db0a3a851.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/a829858b8b503fac4a15335db0a3a851.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent6",
           "referer": "https://kicksball.com/player/nbalpevent6",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,7 +50,7 @@
         },
         {
           "name": "08:00 Basketball Regular Season Mavericks vs Jazz",
-          "image": "https://images.liveplayback.net/events/15dab3c08ea34facfc70ecf5091d0636.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/15dab3c08ea34facfc70ecf5091d0636.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent4",
           "referer": "https://kicksball.com/player/nbalpevent4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -58,7 +58,7 @@
         },
         {
           "name": "08:00 Basketball Regular Season Grizzlies vs Thunder",
-          "image": "https://images.liveplayback.net/events/0578407d0175a96059898bd37b4e9173.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/0578407d0175a96059898bd37b4e9173.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent5",
           "referer": "https://kicksball.com/player/nbalpevent5",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -66,7 +66,7 @@
         },
         {
           "name": "08:00 Basketball Regular Season Bucks vs Raptors",
-          "image": "https://images.liveplayback.net/events/570c76ed383b4b20c14a6cbf89990813.png?timestamp=1794015188681",
+          "image": "https://images.liveplayback.net/events/570c76ed383b4b20c14a6cbf89990813.png?timestamp=1794015191727",
           "url": "https://kicksball.com/player/nbalpevent7",
           "referer": "https://kicksball.com/player/nbalpevent7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -74,7 +74,7 @@
         },
         {
           "name": "09:00 Badminton BWF Korea Open 2026 SF",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -82,7 +82,7 @@
         },
         {
           "name": "09:30 Golf LIVE TOTO Japan Classic Round 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/playsports66",
           "referer": "https://kicksball.com/player/playsports66",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -90,7 +90,7 @@
         },
         {
           "name": "12:00 Golf 2026 KLPGA Tour DAEBO hausD Championship Round 2",
-          "image": "https://atmflix.live/stream/thumbs/golfchannel.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/golfchannel.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/golfchannel",
           "referer": "https://kicksball.com/player/golfchannel",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -98,7 +98,7 @@
         },
         {
           "name": "12:30 Golf LET 2026 Aramco China Championship Day 3",
-          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tsp1",
           "referer": "https://kicksball.com/player/tsp1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -106,7 +106,7 @@
         },
         {
           "name": "13:00 Snooker World Snooker International Championship 2026 27 Final",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -114,7 +114,7 @@
         },
         {
           "name": "14:00 Golf LIVE ABU DHABI HSBC CHAMPIONSHIP Round 3",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/playsports69",
           "referer": "https://kicksball.com/player/playsports69",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -122,7 +122,7 @@
         },
         {
           "name": "17:00 Futsal Futsal TL 2026 Play Off PHETCHABURI RAJABHAT VS BANGKOK FC",
-          "image": "https://atmflix.live/stream/thumbs/tpf5.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tpf5.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tpf5",
           "referer": "https://kicksball.com/player/tpf5",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -130,7 +130,7 @@
         },
         {
           "name": "19:00 Fighting LIVE Rajadamnern World Series 07 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -138,7 +138,7 @@
         },
         {
           "name": "19:30 Tennis WTA 250 Chennai Open 2026 SF",
-          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tsp1",
           "referer": "https://kicksball.com/player/tsp1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -146,7 +146,7 @@
         },
         {
           "name": "05:00 Fighting UFC Fight Night Bonfim vs Brady",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -154,7 +154,7 @@
         },
         {
           "name": "21:15 MotoGP QATAR AIRWAYS GRAND PRIX OF QATAR",
-          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/spotv2.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/spotv2",
           "referer": "https://kicksball.com/player/spotv2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -162,7 +162,7 @@
         },
         {
           "name": "00:00 F1 Race",
-          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1794015188681",
+          "image": "https://atmflix.live/stream/thumbs/bein1.jpg?timestamp=1794015191727",
           "url": "https://kicksball.com/player/bein1",
           "referer": "https://kicksball.com/player/bein1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
