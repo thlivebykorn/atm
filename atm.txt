@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 2",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794262724623",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794262727046",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "07:00 Basketball LIVE Washington Wizards vs Detroit Pistons",
-          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1794262724623",
+          "image": "https://atmflix.live/stream/thumbs/playsports55.jpg?timestamp=1794262727046",
           "url": "https://kicksball.com/player/playsports55",
           "referer": "https://kicksball.com/player/playsports55",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
