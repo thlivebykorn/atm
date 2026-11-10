@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 3",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794324995093",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794324997643",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "08:00 WWE NXT",
-          "image": "https://images.liveplayback.net/events/2fe8c76ec019955db7f520fcac486268.png?timestamp=1794324995093",
+          "image": "https://images.liveplayback.net/events/2fe8c76ec019955db7f520fcac486268.png?timestamp=1794324997643",
           "url": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
           "referer": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
