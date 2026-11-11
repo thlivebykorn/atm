@@ -9,18 +9,82 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "03:00 Tennis WTA Finals 2026 Day 3",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794325072914",
-          "url": "https://kicksball.com/player/truetennis",
-          "referer": "https://kicksball.com/player/truetennis",
+          "name": "07:59 WWE NXT November 10 2026",
+          "image": "https://images.liveplayback.net/events/2fe8c76ec019955db7f520fcac486268.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
+          "referer": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "08:00 WWE NXT",
-          "image": "https://images.liveplayback.net/events/2fe8c76ec019955db7f520fcac486268.png?timestamp=1794325072914",
-          "url": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
-          "referer": "https://kicksball.com/player/19acfdba-85df-f04c-96d1-30c6cc2066a5",
+          "name": "08:00 Basketball Regular Season 76ers vs Celtics",
+          "image": "https://images.liveplayback.net/events/730727d6d940c2e1161e4148a4f6d00c.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/nbalpevent2",
+          "referer": "https://kicksball.com/player/nbalpevent2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Basketball Regular Season Jazz vs Heat",
+          "image": "https://images.liveplayback.net/events/da11c4601b10cfc7f183aba92457ff30.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/nbalpevent4",
+          "referer": "https://kicksball.com/player/nbalpevent4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:00 Basketball Regular Season Suns vs Clippers",
+          "image": "https://images.liveplayback.net/events/4960277f3da93feb102d667a75d0db7f.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/nbalpevent3",
+          "referer": "https://kicksball.com/player/nbalpevent3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "10:00 Basketball LIVE Oklahoma City Thunder vs Portland Trail Blazers",
+          "image": "https://atmflix.live/stream/thumbs/playsports56.jpg?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/playsports56",
+          "referer": "https://kicksball.com/player/playsports56",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "10:00 Basketball Regular Season Kings vs Magic",
+          "image": "https://images.liveplayback.net/events/60a42e0a28fa21c942dd044f7917f154.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/nbalpevent5",
+          "referer": "https://kicksball.com/player/nbalpevent5",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 Basketball Regular Season Trail Blazers vs Thunder",
+          "image": "https://images.liveplayback.net/events/f0c258a588cee7e2d7f5dd2947358fe4.png?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/nbalpevent1",
+          "referer": "https://kicksball.com/player/nbalpevent1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:00 Basketball EASL 2026 27 KCC Egis vs Hou Chon",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com/player/tsp1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:00 Fighting LIVE New Power 11 November 2026",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/playsports41",
+          "referer": "https://kicksball.com/player/playsports41",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Tennis WTA Finals 2026 Day 4",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794368264350",
+          "url": "https://kicksball.com/player/truetennis",
+          "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
