@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "19:54 LIVE Shaun Murphy vs Ronnie O sullivan Wu Yize vs Chang Bingyu 2026 Champion of Champions 2026 11 11 13 28",
-          "image": "https://images.liveplayback.net/events/c439c19cb39d6e6ceb83f1efb59b84df.png?timestamp=1794403942664",
+          "image": "https://images.liveplayback.net/events/c439c19cb39d6e6ceb83f1efb59b84df.png?timestamp=1794403944833",
           "url": "https://kicksball.com/player/c594e470-d9e3-713d-6405-464a8e510bdc",
           "referer": "https://kicksball.com/player/c594e470-d9e3-713d-6405-464a8e510bdc",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 4",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794403942664",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794403944833",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
