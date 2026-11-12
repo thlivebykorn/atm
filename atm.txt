@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "19:00 Tennis LIVE Bybit Stockholm Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794513211845",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794513220222",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "01:55 LIVE Zhao Xintong vs Kyren Wilson Group Two Final 2026 Champion of Champions 2026 11 12 18 59",
-          "image": "https://images.liveplayback.net/events/427f6629f9ee72cdc24ae2fde3a92d66.png?timestamp=1794513211845",
+          "image": "https://images.liveplayback.net/events/427f6629f9ee72cdc24ae2fde3a92d66.png?timestamp=1794513220222",
           "url": "https://kicksball.com/player/fa2ae4c7-1ccb-3a00-b42f-b24c97bf8140",
           "referer": "https://kicksball.com/player/fa2ae4c7-1ccb-3a00-b42f-b24c97bf8140",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 5",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794513211845",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794513220222",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
