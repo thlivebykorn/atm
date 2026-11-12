@@ -9,32 +9,8 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "13:00 Badminton Badminton U Championship",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794486736933",
-          "url": "https://kicksball.com/player/tsp3",
-          "referer": "https://kicksball.com/player/tsp3",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "14:00 Golf LIVE DP WORLD TOUR CHAMPIONSHIP Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794486736933",
-          "url": "https://kicksball.com/player/playsports69",
-          "referer": "https://kicksball.com/player/playsports69",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
-          "name": "18:00 Fighting LIVE Petchyindee 12 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794486736933",
-          "url": "https://kicksball.com/player/playsports41",
-          "referer": "https://kicksball.com/player/playsports41",
-          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
-          "playInNatPlayer": "true"
-        },
-        {
           "name": "19:00 Tennis LIVE Bybit Stockholm Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794486736933",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794504441919",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +18,7 @@
         },
         {
           "name": "23:00 Golf LIVE The ANNIKA driven Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794486736933",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794504441919",
           "url": "https://kicksball.com/player/playsports66",
           "referer": "https://kicksball.com/player/playsports66",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -50,9 +26,85 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 5",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794486736933",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794504441919",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "เจลีก 3",
+      "image": "https://media.api-sports.io/football/leagues/100.png",
+      "stations": [
+        {
+          "name": "12:00 น. Fukushima United vs Sagamihara",
+          "image": "https://images.liveplayback.net/teams/4318.png",
+          "url": "https://kicksball.com/player/event8",
+          "referer": "https://kicksball.com/player/event8",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. FC Gifu vs Matsumoto Yamaga",
+          "image": "https://images.liveplayback.net/teams/297.png",
+          "url": "https://kicksball.com/player/event9",
+          "referer": "https://kicksball.com/player/event9",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Kitakyushu vs Thespakusatsu Gunma",
+          "image": "https://images.liveplayback.net/teams/805.png",
+          "url": "https://kicksball.com/player/event10",
+          "referer": "https://kicksball.com/player/event10",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "เจลีก 2",
+      "image": "https://media.api-sports.io/football/leagues/99.png",
+      "stations": [
+        {
+          "name": "12:00 น. Oita Trinita vs Tochigi City",
+          "image": "https://images.liveplayback.net/teams/298.png",
+          "url": "https://kicksball.com/player/event3",
+          "referer": "https://kicksball.com/player/event3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Shonan Bellmare vs Yokohama FC",
+          "image": "https://images.liveplayback.net/teams/284.png",
+          "url": "https://kicksball.com/player/event4",
+          "referer": "https://kicksball.com/player/event4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Albirex Niigata vs Tegevajaro Miyazaki",
+          "image": "https://images.liveplayback.net/teams/311.png",
+          "url": "https://kicksball.com/player/event5",
+          "referer": "https://kicksball.com/player/event5",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Omiya Ardija vs Montedio Yamagata",
+          "image": "https://images.liveplayback.net/teams/313.png",
+          "url": "https://kicksball.com/player/event6",
+          "referer": "https://kicksball.com/player/event6",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Fujieda MYFC vs Ventforet Kofu",
+          "image": "https://images.liveplayback.net/teams/4317.png",
+          "url": "https://kicksball.com/player/event7",
+          "referer": "https://kicksball.com/player/event7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
