@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "19:00 Tennis LIVE Bybit Stockholm Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794504449974",
+          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794504460022",
           "url": "https://kicksball.com/player/playsports71",
           "referer": "https://kicksball.com/player/playsports71",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "23:00 Golf LIVE The ANNIKA driven Round 1",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794504449974",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794504460022",
           "url": "https://kicksball.com/player/playsports66",
           "referer": "https://kicksball.com/player/playsports66",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 Day 5",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794504449974",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794504460022",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
