@@ -9,24 +9,96 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "19:00 Tennis LIVE Bybit Stockholm Open Day 5",
-          "image": "https://atmflix.live/stream/thumbs/playsports71.jpg?timestamp=1794513330638",
-          "url": "https://kicksball.com/player/playsports71",
-          "referer": "https://kicksball.com/player/playsports71",
+          "name": "07:17 NFL LIVE Carolina Panthers at Green Bay Packers",
+          "image": "https://atmflix.live/stream/thumbs/playsports51.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/playsports51",
+          "referer": "https://kicksball.com/player/playsports51",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "01:55 LIVE Zhao Xintong vs Kyren Wilson Group Two Final 2026 Champion of Champions 2026 11 12 18 59",
-          "image": "https://images.liveplayback.net/events/427f6629f9ee72cdc24ae2fde3a92d66.png?timestamp=1794513330638",
-          "url": "https://kicksball.com/player/fa2ae4c7-1ccb-3a00-b42f-b24c97bf8140",
-          "referer": "https://kicksball.com/player/fa2ae4c7-1ccb-3a00-b42f-b24c97bf8140",
+          "name": "08:00 Badminton BWF Masters Japan 2026 QF",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/tsp7",
+          "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:00 Tennis WTA Finals 2026 Day 5",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794513330638",
+          "name": "08:13 Washington Commanders New York Giants",
+          "image": "https://atmflix.live/stream/thumbs/d56741d3-b893-01a7-d05f-37a2eb95a6ea.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/d56741d3-b893-01a7-d05f-37a2eb95a6ea",
+          "referer": "https://kicksball.com/player/d56741d3-b893-01a7-d05f-37a2eb95a6ea",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:30 Golf JLPGA 2026 Itoen Ladies Golf Tournament Day 1",
+          "image": "https://atmflix.live/stream/thumbs/trueballthai4.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/trueballthai4",
+          "referer": "https://kicksball.com/player/trueballthai4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:30 Golf Asian Tour 2026 Philippines Open Day 2",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com/player/tsp1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:00 Golf LIVE DP WORLD TOUR CHAMPIONSHIP Round 2",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/playsports69",
+          "referer": "https://kicksball.com/player/playsports69",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "16:00 Pickleball MLP Asia 2026 Day 1 The Dot Tokyo",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/truetennis",
+          "referer": "https://kicksball.com/player/truetennis",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:00 Volleyball VTL 2027 W Khon Kaen Star vs Harudot Chonburi VC",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/tsp7",
+          "referer": "https://kicksball.com/player/tsp7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "19:00 Fighting LIVE Rajadamnern Knockout 13 November 2026",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/playsports41",
+          "referer": "https://kicksball.com/player/playsports41",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "23:00 Golf LIVE The ANNIKA driven Round 2",
+          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/playsports66",
+          "referer": "https://kicksball.com/player/playsports66",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Rugby Nations Championship France vs South Africa",
+          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794532653793",
+          "url": "https://kicksball.com/player/tsp4",
+          "referer": "https://kicksball.com/player/tsp4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Tennis WTA Finals 2026 Day 6",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794532653793",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
