@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "18:30 Rugby Nations Championship",
-          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794671845187",
+          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794671847881",
           "url": "https://kicksball.com/player/tsp4",
           "referer": "https://kicksball.com/player/tsp4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 SF",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794671845187",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794671847881",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "07:00 Fighting UFC 334 Gane vs Hokit",
-          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794671845187",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794671847881",
           "url": "https://kicksball.com/player/tsp3",
           "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
