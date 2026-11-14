@@ -9,66 +9,154 @@
       "image": "https://board.dookeela.live/wp-content/uploads/2024/07/cropped-favicon-32x32-1.png",
       "stations": [
         {
-          "name": "14:00 Golf LIVE DP WORLD TOUR CHAMPIONSHIP Round 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794572427986",
-          "url": "https://kicksball.com/player/playsports69",
-          "referer": "https://kicksball.com/player/playsports69",
+          "name": "07:00 Basketball Regular Season Pacers vs Knicks",
+          "image": "https://images.liveplayback.net/events/67ab5967ec7686a622ed7e0fff24485f.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent1",
+          "referer": "https://kicksball.com/player/nbalpevent1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "16:00 Pickleball MLP Asia 2026 Day 1 The Dot Tokyo",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794572427986",
-          "url": "https://kicksball.com/player/truetennis",
-          "referer": "https://kicksball.com/player/truetennis",
+          "name": "07:00 Basketball Regular Season Magic vs Bucks",
+          "image": "https://images.liveplayback.net/events/aacaab4649e411181c9b392feb64e04b.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent2",
+          "referer": "https://kicksball.com/player/nbalpevent2",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "18:00 Volleyball VTL 2027 W Khon Kaen Star vs Harudot Chonburi VC",
-          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794572427986",
+          "name": "08:00 Basketball Regular Season Pelicans vs Grizzlies",
+          "image": "https://images.liveplayback.net/events/15820f1ef6ad33e792718471a0013163.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent5",
+          "referer": "https://kicksball.com/player/nbalpevent5",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Basketball Regular Season Heat vs Cavaliers",
+          "image": "https://images.liveplayback.net/events/06bf0c684ce01801da6e78b11b750d02.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent3",
+          "referer": "https://kicksball.com/player/nbalpevent3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "08:00 Badminton BWF Masters Japan 2026 SF",
+          "image": "https://atmflix.live/stream/thumbs/tsp7.jpg?timestamp=1794617745328",
           "url": "https://kicksball.com/player/tsp7",
           "referer": "https://kicksball.com/player/tsp7",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "18:30 Fighting The Inner Circle 38",
-          "image": "https://atmflix.live/stream/thumbs/onefc.jpg?timestamp=1794572427986",
-          "url": "https://kicksball.com/player/onefc",
-          "referer": "https://kicksball.com/player/onefc",
+          "name": "08:00 Basketball Regular Season Bulls vs Hawks",
+          "image": "https://images.liveplayback.net/events/51735d9eb944b6c1c24f13af3814fb21.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent4",
+          "referer": "https://kicksball.com/player/nbalpevent4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "19:00 Fighting LIVE Rajadamnern Knockout 13 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794572427986",
-          "url": "https://kicksball.com/player/playsports41",
-          "referer": "https://kicksball.com/player/playsports41",
+          "name": "08:00 WWE SmackDown",
+          "image": "https://images-r2.liveplayback.net/events/c6ea63a275a76454d0067d99c3c14ffe.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/d75dfb0c-2c38-650c-42b3-231cadac8851",
+          "referer": "https://kicksball.com/player/d75dfb0c-2c38-650c-42b3-231cadac8851",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "23:00 Golf LIVE The ANNIKA driven Round 2",
-          "image": "https://atmflix.live/stream/thumbs/playsports66.jpg?timestamp=1794572427986",
-          "url": "https://kicksball.com/player/playsports66",
-          "referer": "https://kicksball.com/player/playsports66",
+          "name": "08:30 Basketball Regular Season Rockets vs Jazz",
+          "image": "https://images.liveplayback.net/events/3353d8257bd2a66311555b54c7d3df04.png?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/nbalpevent6",
+          "referer": "https://kicksball.com/player/nbalpevent6",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:00 Rugby Nations Championship France vs South Africa",
-          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794572427986",
+          "name": "09:30 Golf Asian Tour 2026 Philippines Open Day 3",
+          "image": "https://atmflix.live/stream/thumbs/tsp1.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/tsp1",
+          "referer": "https://kicksball.com/player/tsp1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "09:30 Golf JLPGA 2026 Itoen Ladies Golf Tournament Day 2",
+          "image": "https://atmflix.live/stream/thumbs/trueballthai4.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/trueballthai4",
+          "referer": "https://kicksball.com/player/trueballthai4",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "10:00 Badminton TOYOTA Thailand National Badminton Championships 2026 SF",
+          "image": "https://atmflix.live/stream/thumbs/tsp2.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/tsp2",
+          "referer": "https://kicksball.com/player/tsp2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "13:00 Pickleball MLP Asia 2026 Day 2 Hong Kong Cannons",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/truetennis",
+          "referer": "https://kicksball.com/player/truetennis",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:00 Golf LIVE DP WORLD TOUR CHAMPIONSHIP Round 3",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/playsports69",
+          "referer": "https://kicksball.com/player/playsports69",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:00 Volleyball VTL 2027",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/volleyball3",
+          "referer": "https://kicksball.com/player/volleyball3",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "17:00 Futsal Futsal Thai League 2026 Play Off",
+          "image": "https://atmflix.live/stream/thumbs/tpf5.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/tpf5",
+          "referer": "https://kicksball.com/player/tpf5",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "18:30 Rugby Nations Championship",
+          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794617745328",
           "url": "https://kicksball.com/player/tsp4",
           "referer": "https://kicksball.com/player/tsp4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         },
         {
-          "name": "03:00 Tennis WTA Finals 2026 Day 6",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794572427986",
+          "name": "19:00 Fighting LIVE Rajadamnern World Series 14 November 2026",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/playsports41",
+          "referer": "https://kicksball.com/player/playsports41",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "03:00 Tennis WTA Finals 2026 SF",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794617745328",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "07:00 Fighting UFC 334 Gane vs Hokit",
+          "image": "https://atmflix.live/stream/thumbs/tsp3.jpg?timestamp=1794617745328",
+          "url": "https://kicksball.com/player/tsp3",
+          "referer": "https://kicksball.com/player/tsp3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -99,6 +187,30 @@
           "image": "https://images.liveplayback.net/teams/805.png",
           "url": "https://kicksball.com/player/event10",
           "referer": "https://kicksball.com/player/event10",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 น. Kagoshima United vs Gainare Tottori",
+          "image": "https://images.liveplayback.net/teams/2236.png",
+          "url": "https://kicksball.com/player/event7",
+          "referer": "https://kicksball.com/player/event7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "12:00 น. Parceiro Nagano vs Ehime FC",
+          "image": "https://images.liveplayback.net/teams/4323.png",
+          "url": "https://kicksball.com/player/event11",
+          "referer": "https://kicksball.com/player/event11",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "14:00 น. FC Ryukyu vs Kochi United",
+          "image": "https://images.liveplayback.net/teams/2235.png",
+          "url": "https://kicksball.com/player/event1",
+          "referer": "https://kicksball.com/player/event1",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
@@ -145,6 +257,44 @@
           "image": "https://images.liveplayback.net/teams/4317.png",
           "url": "https://kicksball.com/player/event7",
           "referer": "https://kicksball.com/player/event7",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 น. Consadole Sapporo vs Sagan Tosu",
+          "image": "https://images.liveplayback.net/teams/279.png",
+          "url": "https://kicksball.com/player/event1",
+          "referer": "https://kicksball.com/player/event1",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "11:00 น. Vanraure Hachinohe vs Iwaki",
+          "image": "https://images.liveplayback.net/teams/4326.png",
+          "url": "https://kicksball.com/player/event2",
+          "referer": "https://kicksball.com/player/event2",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        }
+      ]
+    },
+    {
+      "name": "กัลโช่ เซเรีย อา",
+      "image": "https://media.api-sports.io/football/leagues/71.png",
+      "stations": [
+        {
+          "name": "04:30 น. Mirassol vs Atletico-MG",
+          "image": "https://images.liveplayback.net/teams/7848.png",
+          "url": "https://kicksball.com/player/sportdigital",
+          "referer": "https://kicksball.com/player/sportdigital",
+          "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+          "playInNatPlayer": "true"
+        },
+        {
+          "name": "06:30 น. Chapecoense-sc vs Vasco DA Gama",
+          "image": "https://images.liveplayback.net/teams/132.png",
+          "url": "https://kicksball.com/player/event3",
+          "referer": "https://kicksball.com/player/event3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
           "playInNatPlayer": "true"
         }
