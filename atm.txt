@@ -10,7 +10,7 @@
       "stations": [
         {
           "name": "12:00 Volleyball VTL 2027",
-          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1794741834343",
+          "image": "https://atmflix.live/stream/thumbs/volleyball3.jpg?timestamp=1794741837216",
           "url": "https://kicksball.com/player/volleyball3",
           "referer": "https://kicksball.com/player/volleyball3",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -18,7 +18,7 @@
         },
         {
           "name": "13:30 Golf LIVE DP WORLD TOUR CHAMPIONSHIP Final",
-          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794741834343",
+          "image": "https://atmflix.live/stream/thumbs/playsports69.jpg?timestamp=1794741837216",
           "url": "https://kicksball.com/player/playsports69",
           "referer": "https://kicksball.com/player/playsports69",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -26,7 +26,7 @@
         },
         {
           "name": "18:00 Fighting LIVE Kiatpetch 15 November 2026",
-          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794741834343",
+          "image": "https://atmflix.live/stream/thumbs/playsports41.jpg?timestamp=1794741837216",
           "url": "https://kicksball.com/player/playsports41",
           "referer": "https://kicksball.com/player/playsports41",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -34,7 +34,7 @@
         },
         {
           "name": "22:00 Rugby Nations Championship Scotland vs Australia",
-          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794741834343",
+          "image": "https://atmflix.live/stream/thumbs/tsp4.jpg?timestamp=1794741837216",
           "url": "https://kicksball.com/player/tsp4",
           "referer": "https://kicksball.com/player/tsp4",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
@@ -42,7 +42,7 @@
         },
         {
           "name": "03:00 Tennis WTA Finals 2026 Final",
-          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794741834343",
+          "image": "https://atmflix.live/stream/thumbs/truetennis.jpg?timestamp=1794741837216",
           "url": "https://kicksball.com/player/truetennis",
           "referer": "https://kicksball.com/player/truetennis",
           "userAgent": "Mozilla/5.0 (Linux; Android 12; Wiseplay TV Build/SQ1A.220105.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
